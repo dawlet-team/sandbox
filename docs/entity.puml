@@ -1,0 +1,12 @@
+@startuml
+note ||--|| noteOn
+note ||--{  modulation
+note ||--|| noteOff
+song ||--|| script
+song ||--o{ track
+track ||--o{ clip
+clip ||--o{ note
+clip ||--|| spectrogram
+system ||--{ app
+app ||--|| state
+@enduml

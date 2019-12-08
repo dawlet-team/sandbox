@@ -1,0 +1,43 @@
+@startuml
+title Spectral composition example
+actor Composer
+participant Spectralet
+participant Algolet
+database Fs
+database ProjectFile
+
+Composer -> Spectralet: "Create new" command
+Spectralet -> Composer: Ask folder to save
+Composer -> Spectralet: Indicates path to save
+Spectralet -> ProjectFile: Generates ProjectFile
+Spectralet -> ProjectFile: Watch ProjectFile
+Composer -> Algolet: "Open" command
+Algolet -> Composer: Ask which file
+Composer -> Algolet: Indicates path
+Algolet -> ProjectFile: Watch project file
+Composer -> Spectralet: "Generate spectrogram" command
+Spectralet -> Fs: Requests file
+Fs -> Spectralet: Returns file
+Spectralet -> Spectralet: generates spectrogram
+Spectralet -> ProjectFile: Insert spectrogram data
+ProjectFile -> Spectralet: Trigger view updates
+Spectralet -> Composer: Shows spectrogram
+Composer -> Spectralet: "Extract" command
+Spectralet -> Spectralet: Extract notes/phrases/rhythms
+Spectralet -> ProjectFile: Insert notes/phrases/rhythms
+ProjectFile -> Spectralet: Tirgger view updates
+ProjectFile -> Algolet: Tirgger view updates
+Spectralet -> Composer: Shows result
+Algolet -> Composer: Shows result
+Composer -> Algolet: "Insert Transpose Effect"
+Algolet -> Composer: Shows effect panel
+Composer -> Algolet: Tweaks parameters
+Algolet -> ProjectFile: Updates post-script
+ProjectFile -> Spectralet: Tirgger view updates
+ProjectFile -> Algolet: Tirgger view updates
+Spectralet -> Composer: Shows result
+Algolet -> Composer: Shows result
+@enduml
+
+'Distructive change?'
+

@@ -1,0 +1,4382 @@
+{
+  "$name": "entities",
+  "noteOns": {
+    "$connection": "entities",
+    "$name": "noteOns",
+    "data": {
+      "2yhmkws": {
+        "id": "2yhmkws",
+        "noteId": "q0u69tj",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.32008077101080146,
+        "pitchBend": -0.23669598344650922,
+        "timbre": 0.5,
+        "pressure": 0.32008077101080146,
+        "selected": false
+      },
+      "3i0057p": {
+        "id": "3i0057p",
+        "noteId": "4vqmbpl",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.32822340393197325,
+        "pitchBend": -0.05803914278914135,
+        "timbre": 0.5,
+        "pressure": 0.32822340393197325,
+        "selected": false
+      },
+      "03tply3": {
+        "id": "03tply3",
+        "noteId": "dftxvf5",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.3267865270893614,
+        "pitchBend": 0.16164399970237753,
+        "timbre": 0.5,
+        "pressure": 0.3267865270893614,
+        "selected": false
+      },
+      "n0rtkvx": {
+        "id": "n0rtkvx",
+        "noteId": "jfwuqnm",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.3208461101764123,
+        "pitchBend": 0.16164399972738863,
+        "timbre": 0.5,
+        "pressure": 0.3208461101764123,
+        "selected": false
+      },
+      "3gqaic8": {
+        "id": "3gqaic8",
+        "noteId": "aspd33r",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.3317365157988197,
+        "pitchBend": -0.3373270438460878,
+        "timbre": 0.5,
+        "pressure": 0.3317365157988197,
+        "selected": false
+      },
+      "trg1wkj": {
+        "id": "trg1wkj",
+        "noteId": "iu0usxj",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.3267865270893614,
+        "pitchBend": 0.3178553026463362,
+        "timbre": 0.5,
+        "pressure": 0.3267865270893614,
+        "selected": false
+      },
+      "npx4wye": {
+        "id": "npx4wye",
+        "noteId": "yd9qto0",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.32385592610752745,
+        "pitchBend": 0.40507130819739245,
+        "timbre": 0.5,
+        "pressure": 0.32385592610752745,
+        "selected": false
+      },
+      "tkxis7x": {
+        "id": "tkxis7x",
+        "noteId": "xvumpfx",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.32459583853247376,
+        "pitchBend": 0.13047496232749722,
+        "timbre": 0.5,
+        "pressure": 0.32459583853247376,
+        "selected": false
+      },
+      "hlpexg5": {
+        "id": "hlpexg5",
+        "noteId": "68ehxtj",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.32008077101080146,
+        "pitchBend": 0.10176268821356871,
+        "timbre": 0.5,
+        "pressure": 0.32008077101080146,
+        "selected": false
+      },
+      "iqggavn": {
+        "id": "iqggavn",
+        "noteId": "w5y4qkh",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.32459583853247376,
+        "pitchBend": 0.43186204836486297,
+        "timbre": 0.5,
+        "pressure": 0.32459583853247376,
+        "selected": false
+      },
+      "bd9p718": {
+        "id": "bd9p718",
+        "noteId": "2dguoqa",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.3231110643988071,
+        "pitchBend": 0.026603429171188964,
+        "timbre": 0.5,
+        "pressure": 0.3231110643988071,
+        "selected": false
+      },
+      "hqutwsa": {
+        "id": "hqutwsa",
+        "noteId": "3tjblmg",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.3177526776389604,
+        "pitchBend": -0.4240224425406893,
+        "timbre": 0.5,
+        "pressure": 0.3177526776389604,
+        "selected": false
+      },
+      "e0okv36": {
+        "id": "e0okv36",
+        "noteId": "j1ounhx",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.3275072830700394,
+        "pitchBend": 0.3761737565062191,
+        "timbre": 0.5,
+        "pressure": 0.3275072830700394,
+        "selected": false
+      },
+      "tv5o546": {
+        "id": "tv5o546",
+        "noteId": "agshl62",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.318534129338941,
+        "pitchBend": 0.2159315893626399,
+        "timbre": 0.5,
+        "pressure": 0.318534129338941,
+        "selected": false
+      },
+      "g0n9pwd": {
+        "id": "g0n9pwd",
+        "noteId": "8kjc986",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.33104270414466486,
+        "pitchBend": 0.09156286494788901,
+        "timbre": 0.5,
+        "pressure": 0.33104270414466486,
+        "selected": false
+      },
+      "refd6mu": {
+        "id": "refd6mu",
+        "noteId": "f2a0ajg",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.316965703266315,
+        "pitchBend": 0.26443503223649145,
+        "timbre": 0.5,
+        "pressure": 0.316965703266315,
+        "selected": false
+      },
+      "bbgo0gi": {
+        "id": "bbgo0gi",
+        "noteId": "92vxvbq",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.3231110643988071,
+        "pitchBend": 0.23260475710756623,
+        "timbre": 0.5,
+        "pressure": 0.3231110643988071,
+        "selected": false
+      },
+      "51rsjgm": {
+        "id": "51rsjgm",
+        "noteId": "cvp106r",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.32822340393197325,
+        "pitchBend": 0.49392704194167436,
+        "timbre": 0.5,
+        "pressure": 0.32822340393197325,
+        "selected": false
+      },
+      "6pwbtei": {
+        "id": "6pwbtei",
+        "noteId": "737ckk1",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.3275072830700394,
+        "pitchBend": 0.3099240151323954,
+        "timbre": 0.5,
+        "pressure": 0.3275072830700394,
+        "selected": false
+      },
+      "6ppxr0m": {
+        "id": "6ppxr0m",
+        "noteId": "bngk3bk",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.32385592610752745,
+        "pitchBend": 0.003526566733000891,
+        "timbre": 0.5,
+        "pressure": 0.32385592610752745,
+        "selected": false
+      },
+      "giem6iv": {
+        "id": "giem6iv",
+        "noteId": "neog5pm",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.3275072830700394,
+        "pitchBend": 0.4656442233639382,
+        "timbre": 0.5,
+        "pressure": 0.3275072830700394,
+        "selected": false
+      },
+      "sytvley": {
+        "id": "sytvley",
+        "noteId": "dul8nlv",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.32459583853247376,
+        "pitchBend": 0.0033377693228828775,
+        "timbre": 0.5,
+        "pressure": 0.32459583853247376,
+        "selected": false
+      },
+      "kc5hjxv": {
+        "id": "kc5hjxv",
+        "noteId": "crj3mxu",
+        "type": "NoteOn",
+        "noteOnVelocity": 0.2706235753404671,
+        "pitchBend": 0.12731259915840099,
+        "timbre": 0.5,
+        "pressure": 0.2706235753404671,
+        "selected": false
+      }
+    }
+  },
+  "modulations": {
+    "$connection": "entities",
+    "$name": "modulations",
+    "data": {
+      "hk5p99a": {
+        "id": "hk5p99a",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 11.145578231292575,
+        "pitchBend": 0.004902572537673677,
+        "pressure": 0.33446932559143017,
+        "timbre": null,
+        "selected": false
+      },
+      "gt9oqh5": {
+        "id": "gt9oqh5",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 22.291156462585036,
+        "pitchBend": 0.227813354045864,
+        "pressure": 0.33713667252570145,
+        "timbre": null,
+        "selected": false
+      },
+      "jvo5c62": {
+        "id": "jvo5c62",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 33.4367346938775,
+        "pitchBend": 0.4330465826476626,
+        "pressure": 0.33647580168239366,
+        "timbre": null,
+        "selected": false
+      },
+      "ddb7bqj": {
+        "id": "ddb7bqj",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 44.58231292516996,
+        "pitchBend": 0.6215554564495847,
+        "pressure": 0.3377936444032955,
+        "timbre": null,
+        "selected": false
+      },
+      "8oq6tdi": {
+        "id": "8oq6tdi",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 55.72789115646265,
+        "pitchBend": 0.7942421155949262,
+        "pressure": 0.34165610362856746,
+        "timbre": null,
+        "selected": false
+      },
+      "eddd72t": {
+        "id": "eddd72t",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 66.87346938775511,
+        "pitchBend": 0.9519628792947401,
+        "pressure": 0.33647580168239366,
+        "timbre": null,
+        "selected": false
+      },
+      "sownxn0": {
+        "id": "sownxn0",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 78.01904761904768,
+        "pitchBend": 1.0955328507205735,
+        "pressure": 0.3536414680265424,
+        "timbre": null,
+        "selected": false
+      },
+      "nmdl6fn": {
+        "id": "nmdl6fn",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 89.16462585034014,
+        "pitchBend": 1.2257299701697093,
+        "pressure": 0.3501793318576595,
+        "timbre": null,
+        "selected": false
+      },
+      "c3ms5q7": {
+        "id": "c3ms5q7",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 100.3102040816326,
+        "pitchBend": 1.343298583870535,
+        "pressure": 0.3501793318576595,
+        "timbre": null,
+        "selected": false
+      },
+      "o5yt768": {
+        "id": "o5yt768",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 111.45578231292518,
+        "pitchBend": 1.4489525850734424,
+        "pressure": 0.35754911143188517,
+        "timbre": null,
+        "selected": false
+      },
+      "bci655d": {
+        "id": "bci655d",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 122.60136054421764,
+        "pitchBend": 1.5433781752190328,
+        "pressure": 0.35754911143188517,
+        "timbre": null,
+        "selected": false
+      },
+      "xrv715r": {
+        "id": "xrv715r",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 133.74693877551022,
+        "pitchBend": 1.62723628565044,
+        "pressure": 0.3580963184802306,
+        "timbre": null,
+        "selected": false
+      },
+      "84qtpcd": {
+        "id": "84qtpcd",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 144.8925170068028,
+        "pitchBend": 1.7011646942629284,
+        "pressure": 0.33581098531814535,
+        "timbre": null,
+        "selected": false
+      },
+      "arqqawd": {
+        "id": "arqqawd",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 156.03809523809525,
+        "pitchBend": 1.7657798664388054,
+        "pressure": 0.3390960734055407,
+        "timbre": null,
+        "selected": false
+      },
+      "507g2o0": {
+        "id": "507g2o0",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 167.1836734693877,
+        "pitchBend": 1.8216785454356597,
+        "pressure": 0.3501793318576595,
+        "timbre": null,
+        "selected": false
+      },
+      "0mb9ket": {
+        "id": "0mb9ket",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 178.3292517006803,
+        "pitchBend": 1.8694391139291184,
+        "pressure": 0.3490009461496699,
+        "timbre": null,
+        "selected": false
+      },
+      "tjvgs1m": {
+        "id": "tjvgs1m",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 189.47482993197275,
+        "pitchBend": 1.9096227455577832,
+        "pressure": 0.3390960734055407,
+        "timbre": null,
+        "selected": false
+      },
+      "2pke52u": {
+        "id": "2pke52u",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 200.62040816326532,
+        "pitchBend": 1.9427743629756407,
+        "pressure": 0.3484070438871981,
+        "timbre": null,
+        "selected": false
+      },
+      "l0i6nl0": {
+        "id": "l0i6nl0",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 211.76598639455779,
+        "pitchBend": 1.9694234170156335,
+        "pressure": 0.34959169772219134,
+        "timbre": null,
+        "selected": false
+      },
+      "f244cp4": {
+        "id": "f244cp4",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 222.91156462585036,
+        "pitchBend": 1.9900845000527312,
+        "pressure": 0.34959169772219134,
+        "timbre": null,
+        "selected": false
+      },
+      "swt92hn": {
+        "id": "swt92hn",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 234.05714285714294,
+        "pitchBend": 2.00525780545388,
+        "pressure": 0.33647580168239366,
+        "timbre": null,
+        "selected": false
+      },
+      "ueamb2l": {
+        "id": "ueamb2l",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 245.2027210884354,
+        "pitchBend": 2.0154294441008886,
+        "pressure": 0.33713667252570145,
+        "timbre": null,
+        "selected": false
+      },
+      "5dykmg9": {
+        "id": "5dykmg9",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 256.34829931972774,
+        "pitchBend": 2.0210716282999783,
+        "pressure": 0.35134537822159984,
+        "timbre": null,
+        "selected": false
+      },
+      "ynor2x3": {
+        "id": "ynor2x3",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 267.49387755102043,
+        "pitchBend": 2.0226427329443197,
+        "pressure": 0.3337923848425809,
+        "timbre": null,
+        "selected": false
+      },
+      "2hn84g2": {
+        "id": "2hn84g2",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 278.6394557823129,
+        "pitchBend": 2.0205872435203105,
+        "pressure": 0.34538907027612187,
+        "timbre": null,
+        "selected": false
+      },
+      "ysife6r": {
+        "id": "ysife6r",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 289.78503401360535,
+        "pitchBend": 2.0153356004324507,
+        "pressure": 0.3377936444032955,
+        "timbre": null,
+        "selected": false
+      },
+      "hqjbo6d": {
+        "id": "hqjbo6d",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 300.93061224489793,
+        "pitchBend": 2.0073039491229423,
+        "pressure": 0.33034454254577406,
+        "timbre": null,
+        "selected": false
+      },
+      "ssc5ukd": {
+        "id": "ssc5ukd",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 312.0761904761905,
+        "pitchBend": 1.9968938055751977,
+        "pressure": 0.33034454254577406,
+        "timbre": null,
+        "selected": false
+      },
+      "g7i3ngs": {
+        "id": "g7i3ngs",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 323.2217687074831,
+        "pitchBend": 1.9844916469675553,
+        "pressure": 0.3478099571469746,
+        "timbre": null,
+        "selected": false
+      },
+      "hpmu9e7": {
+        "id": "hpmu9e7",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 334.36734693877554,
+        "pitchBend": 1.9704684374759438,
+        "pressure": 0.33844676305123966,
+        "timbre": null,
+        "selected": false
+      },
+      "vadye2w": {
+        "id": "vadye2w",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 345.5129251700681,
+        "pitchBend": 1.9551790994835017,
+        "pressure": 0.33974161962070115,
+        "timbre": null,
+        "selected": false
+      },
+      "8hb6kpy": {
+        "id": "8hb6kpy",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 356.6585034013606,
+        "pitchBend": 1.9389619407139946,
+        "pressure": 0.3296419761127116,
+        "timbre": null,
+        "selected": false
+      },
+      "ltgpx0d": {
+        "id": "ltgpx0d",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 367.80408163265315,
+        "pitchBend": 1.9221380480409778,
+        "pressure": 0.3317365157988197,
+        "timbre": null,
+        "selected": false
+      },
+      "frkwau5": {
+        "id": "frkwau5",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 378.9496598639455,
+        "pitchBend": 1.9050106589251072,
+        "pressure": 0.3435382286063783,
+        "timbre": null,
+        "selected": false
+      },
+      "mi08ik0": {
+        "id": "mi08ik0",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 390.09523809523785,
+        "pitchBend": 1.8878645215523164,
+        "pressure": 0.3435382286063783,
+        "timbre": null,
+        "selected": false
+      },
+      "8a864qq": {
+        "id": "8a864qq",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 401.2408163265304,
+        "pitchBend": 1.8709652547994722,
+        "pressure": 0.34038344508773644,
+        "timbre": null,
+        "selected": false
+      },
+      "lywncrj": {
+        "id": "lywncrj",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 412.3863945578232,
+        "pitchBend": 1.8545587190917985,
+        "pressure": 0.3337923848425809,
+        "timbre": null,
+        "selected": false
+      },
+      "xt8siov": {
+        "id": "xt8siov",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 423.53197278911557,
+        "pitchBend": 1.8388704090452848,
+        "pressure": 0.34165610362856746,
+        "timbre": null,
+        "selected": false
+      },
+      "0mi0p3y": {
+        "id": "0mi0p3y",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 434.67755102040815,
+        "pitchBend": 1.8241048784902603,
+        "pressure": 0.3390960734055407,
+        "timbre": null,
+        "selected": false
+      },
+      "1hnn9f6": {
+        "id": "1hnn9f6",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 445.8231292517007,
+        "pitchBend": 1.8104452080378763,
+        "pressure": 0.3422870198219954,
+        "timbre": null,
+        "selected": false
+      },
+      "gb5ab8o": {
+        "id": "gb5ab8o",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 456.96870748299307,
+        "pitchBend": 1.798052524778356,
+        "pressure": 0.3564465637095564,
+        "timbre": null,
+        "selected": false
+      },
+      "fyhlpby": {
+        "id": "fyhlpby",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 468.11428571428564,
+        "pitchBend": 1.7870655829955666,
+        "pressure": 0.35754911143188517,
+        "timbre": null,
+        "selected": false
+      },
+      "0q1ithk": {
+        "id": "0q1ithk",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 479.2598639455782,
+        "pitchBend": 1.7776004139398367,
+        "pressure": 0.35307186877819074,
+        "timbre": null,
+        "selected": false
+      },
+      "pc37g66": {
+        "id": "pc37g66",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 490.40544217687057,
+        "pitchBend": 1.7697500517344054,
+        "pressure": 0.35589116899088236,
+        "timbre": null,
+        "selected": false
+      },
+      "gee40oc": {
+        "id": "gee40oc",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 501.55102040816337,
+        "pitchBend": 1.7635843414269061,
+        "pressure": 0.35307186877819074,
+        "timbre": null,
+        "selected": false
+      },
+      "pg6ql5p": {
+        "id": "pg6ql5p",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 512.6965986394559,
+        "pitchBend": 1.7591498340210023,
+        "pressure": 0.3324260313780426,
+        "timbre": null,
+        "selected": false
+      },
+      "xy90quc": {
+        "id": "xy90quc",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 523.8421768707485,
+        "pitchBend": 1.7564697720966649,
+        "pressure": 0.3422870198219954,
+        "timbre": null,
+        "selected": false
+      },
+      "v0cp5fm": {
+        "id": "v0cp5fm",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 534.9877551020406,
+        "pitchBend": 1.7555441683361863,
+        "pressure": 0.34660609233802575,
+        "timbre": null,
+        "selected": false
+      },
+      "d8q7ci4": {
+        "id": "d8q7ci4",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 546.1333333333332,
+        "pitchBend": 1.7563499779681706,
+        "pressure": 0.3324260313780426,
+        "timbre": null,
+        "selected": false
+      },
+      "wtvy8gt": {
+        "id": "wtvy8gt",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 557.2789115646258,
+        "pitchBend": 1.758841364827589,
+        "pressure": 0.3390960734055407,
+        "timbre": null,
+        "selected": false
+      },
+      "2iw4cmd": {
+        "id": "2iw4cmd",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 568.4244897959181,
+        "pitchBend": 1.7629500594695742,
+        "pressure": 0.34959169772219134,
+        "timbre": null,
+        "selected": false
+      },
+      "v9i46r3": {
+        "id": "v9i46r3",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 579.5700680272109,
+        "pitchBend": 1.7685858065314335,
+        "pressure": 0.3542081685384397,
+        "timbre": null,
+        "selected": false
+      },
+      "62v6bh4": {
+        "id": "62v6bh4",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 590.7156462585035,
+        "pitchBend": 1.7756368974178258,
+        "pressure": 0.35477199966836503,
+        "timbre": null,
+        "selected": false
+      },
+      "la8nqrj": {
+        "id": "la8nqrj",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 601.8612244897959,
+        "pitchBend": 1.7839707833268648,
+        "pressure": 0.3490009461496699,
+        "timbre": null,
+        "selected": false
+      },
+      "gbsqtvj": {
+        "id": "gbsqtvj",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 613.0068027210884,
+        "pitchBend": 1.7934347627307403,
+        "pressure": 0.3536414680265424,
+        "timbre": null,
+        "selected": false
+      },
+      "giyuvj4": {
+        "id": "giyuvj4",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 624.152380952381,
+        "pitchBend": 1.8038567366401423,
+        "pressure": 0.3484070438871981,
+        "timbre": null,
+        "selected": false
+      },
+      "cvcb5yy": {
+        "id": "cvcb5yy",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 635.2979591836734,
+        "pitchBend": 1.8150460243553255,
+        "pressure": 0.3472096515947589,
+        "timbre": null,
+        "selected": false
+      },
+      "b7c7km5": {
+        "id": "b7c7km5",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 646.4435374149659,
+        "pitchBend": 1.8267942319440067,
+        "pressure": 0.3390960734055407,
+        "timbre": null,
+        "selected": false
+      },
+      "odtt8u6": {
+        "id": "odtt8u6",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 657.5891156462585,
+        "pitchBend": 1.8388761653789345,
+        "pressure": 0.3501793318576595,
+        "timbre": null,
+        "selected": false
+      },
+      "a5i9fhg": {
+        "id": "a5i9fhg",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 668.7346938775511,
+        "pitchBend": 1.851050780140298,
+        "pressure": 0.3472096515947589,
+        "timbre": null,
+        "selected": false
+      },
+      "xboev0f": {
+        "id": "xboev0f",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 679.8802721088437,
+        "pitchBend": 1.863062159112303,
+        "pressure": 0.34599924391379355,
+        "timbre": null,
+        "selected": false
+      },
+      "xk8jlcw": {
+        "id": "xk8jlcw",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 691.025850340136,
+        "pitchBend": 1.8746405107964392,
+        "pressure": 0.3478099571469746,
+        "timbre": null,
+        "selected": false
+      },
+      "cx3l1k9": {
+        "id": "cx3l1k9",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 702.1714285714284,
+        "pitchBend": 1.885503180193595,
+        "pressure": 0.3507638812852988,
+        "timbre": null,
+        "selected": false
+      },
+      "gj7xi17": {
+        "id": "gj7xi17",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 713.3170068027209,
+        "pitchBend": 1.8953556652010803,
+        "pressure": 0.3501793318576595,
+        "timbre": null,
+        "selected": false
+      },
+      "66rxnvs": {
+        "id": "66rxnvs",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 724.4625850340135,
+        "pitchBend": 1.903892631954605,
+        "pressure": 0.35307186877819074,
+        "timbre": null,
+        "selected": false
+      },
+      "q19de5f": {
+        "id": "q19de5f",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 735.6081632653058,
+        "pitchBend": 1.9107989232989837,
+        "pressure": 0.3519238543809735,
+        "timbre": null,
+        "selected": false
+      },
+      "qjlphlf": {
+        "id": "qjlphlf",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 746.7537414965986,
+        "pitchBend": 1.9157505553577892,
+        "pressure": 0.3478099571469746,
+        "timbre": null,
+        "selected": false
+      },
+      "2124lfu": {
+        "id": "2124lfu",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 757.8993197278912,
+        "pitchBend": 1.9184156981222031,
+        "pressure": 0.34599924391379355,
+        "timbre": null,
+        "selected": false
+      },
+      "pvmeny1": {
+        "id": "pvmeny1",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 769.0448979591838,
+        "pitchBend": 1.9184556369500854,
+        "pressure": 0.3435382286063783,
+        "timbre": null,
+        "selected": false
+      },
+      "dvhf6ac": {
+        "id": "dvhf6ac",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 780.1904761904761,
+        "pitchBend": 1.9155257129291385,
+        "pressure": 0.35307186877819074,
+        "timbre": null,
+        "selected": false
+      },
+      "yt7k06l": {
+        "id": "yt7k06l",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 791.3360544217687,
+        "pitchBend": 1.9092762411917192,
+        "pressure": 0.35589116899088236,
+        "timbre": null,
+        "selected": false
+      },
+      "wuf7ccr": {
+        "id": "wuf7ccr",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 802.4816326530613,
+        "pitchBend": 1.8993534074287055,
+        "pressure": 0.34538907027612187,
+        "timbre": null,
+        "selected": false
+      },
+      "b1brcln": {
+        "id": "b1brcln",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 813.6272108843536,
+        "pitchBend": 1.8854001440884645,
+        "pressure": 0.3435382286063783,
+        "timbre": null,
+        "selected": false
+      },
+      "qjjnvi8": {
+        "id": "qjjnvi8",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 824.7727891156462,
+        "pitchBend": 1.8670569890122977,
+        "pressure": 0.33974161962070115,
+        "timbre": null,
+        "selected": false
+      },
+      "vlqhohm": {
+        "id": "vlqhohm",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 835.918367346939,
+        "pitchBend": 1.8439629306026006,
+        "pressure": 0.3390960734055407,
+        "timbre": null,
+        "selected": false
+      },
+      "9p8hq28": {
+        "id": "9p8hq28",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 847.0639455782311,
+        "pitchBend": 1.815756245009851,
+        "pressure": 0.3478099571469746,
+        "timbre": null,
+        "selected": false
+      },
+      "xlmk3tk": {
+        "id": "xlmk3tk",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 858.2095238095237,
+        "pitchBend": 1.7820753322899492,
+        "pressure": 0.3324260313780426,
+        "timbre": null,
+        "selected": false
+      },
+      "nn9wuui": {
+        "id": "nn9wuui",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 869.3551020408163,
+        "pitchBend": 1.742559560026308,
+        "pressure": 0.3337923848425809,
+        "timbre": null,
+        "selected": false
+      },
+      "jq7ns4m": {
+        "id": "jq7ns4m",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 880.5006802721086,
+        "pitchBend": 1.6968501246084315,
+        "pressure": 0.33104270414466486,
+        "timbre": null,
+        "selected": false
+      },
+      "n5jlxqm": {
+        "id": "n5jlxqm",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 891.6462585034012,
+        "pitchBend": 1.6445909420861824,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "0dx5qc2": {
+        "id": "0dx5qc2",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 902.7918367346938,
+        "pitchBend": 1.5854295825139815,
+        "pressure": 0.3296419761127116,
+        "timbre": null,
+        "selected": false
+      },
+      "p8t9noq": {
+        "id": "p8t9noq",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 913.9374149659864,
+        "pitchBend": 1.5190182637894338,
+        "pressure": 0.3275072830700394,
+        "timbre": null,
+        "selected": false
+      },
+      "tsri5a8": {
+        "id": "tsri5a8",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 925.0829931972789,
+        "pitchBend": 1.4450149233682055,
+        "pressure": 0.33104270414466486,
+        "timbre": null,
+        "selected": false
+      },
+      "l0gw6r4": {
+        "id": "l0gw6r4",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 936.2285714285715,
+        "pitchBend": 1.363084388809071,
+        "pressure": 0.33647580168239366,
+        "timbre": null,
+        "selected": false
+      },
+      "7b70qry": {
+        "id": "7b70qry",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 947.3741496598639,
+        "pitchBend": 1.2728996710594345,
+        "pressure": 0.3324260313780426,
+        "timbre": null,
+        "selected": false
+      },
+      "4ye2ltu": {
+        "id": "4ye2ltu",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 958.5197278911564,
+        "pitchBend": 1.1741434076145651,
+        "pressure": 0.32459583853247376,
+        "timbre": null,
+        "selected": false
+      },
+      "uv9ronj": {
+        "id": "uv9ronj",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 969.665306122449,
+        "pitchBend": 1.0665094864034188,
+        "pressure": 0.3324260313780426,
+        "timbre": null,
+        "selected": false
+      },
+      "t4x2upt": {
+        "id": "t4x2upt",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 980.8108843537414,
+        "pitchBend": 0.9497048853306467,
+        "pressure": 0.33104270414466486,
+        "timbre": null,
+        "selected": false
+      },
+      "krbtipu": {
+        "id": "krbtipu",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 991.9564625850339,
+        "pitchBend": 0.823451767092422,
+        "pressure": 0.32459583853247376,
+        "timbre": null,
+        "selected": false
+      },
+      "o01pf4c": {
+        "id": "o01pf4c",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 1003.1020408163265,
+        "pitchBend": 0.6874898740700388,
+        "pressure": 0.32459583853247376,
+        "timbre": null,
+        "selected": false
+      },
+      "uyi2k3j": {
+        "id": "uyi2k3j",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 1014.2476190476191,
+        "pitchBend": 0.5415792739357101,
+        "pressure": 0.3324260313780426,
+        "timbre": null,
+        "selected": false
+      },
+      "4fla39q": {
+        "id": "4fla39q",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 1025.3931972789114,
+        "pitchBend": 0.38550351308121833,
+        "pressure": 0.33034454254577406,
+        "timbre": null,
+        "selected": false
+      },
+      "jg6bvin": {
+        "id": "jg6bvin",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 1036.538775510204,
+        "pitchBend": 0.21907324214268442,
+        "pressure": 0.3231110643988071,
+        "timbre": null,
+        "selected": false
+      },
+      "j50rs2u": {
+        "id": "j50rs2u",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 1047.6843537414966,
+        "pitchBend": 0.042130385713051055,
+        "pressure": 0.34038344508773644,
+        "timbre": null,
+        "selected": false
+      },
+      "wmtrss2": {
+        "id": "wmtrss2",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 1058.829931972789,
+        "pitchBend": -0.14544706322817547,
+        "pressure": 0.3410215924516762,
+        "timbre": null,
+        "selected": false
+      },
+      "civo8f1": {
+        "id": "civo8f1",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 1069.9755102040815,
+        "pitchBend": -0.34373953464969986,
+        "pressure": 0.33844676305123966,
+        "timbre": null,
+        "selected": false
+      },
+      "yo4ydkx": {
+        "id": "yo4ydkx",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 1081.121088435374,
+        "pitchBend": -0.5527795597959084,
+        "pressure": 0.33713667252570145,
+        "timbre": null,
+        "selected": false
+      },
+      "97c9gts": {
+        "id": "97c9gts",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 1092.2666666666667,
+        "pitchBend": -0.7725445283839463,
+        "pressure": 0.325330867011442,
+        "timbre": null,
+        "selected": false
+      },
+      "sv20y4i": {
+        "id": "sv20y4i",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 1103.4122448979592,
+        "pitchBend": -1.002948407742707,
+        "pressure": 0.32459583853247376,
+        "timbre": null,
+        "selected": false
+      },
+      "fn7gmvx": {
+        "id": "fn7gmvx",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 1114.5578231292518,
+        "pitchBend": -1.2438322992047546,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "wvishmc": {
+        "id": "wvishmc",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 1125.7034013605441,
+        "pitchBend": -1.4949537015064323,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "43uutt2": {
+        "id": "43uutt2",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 1136.8489795918367,
+        "pitchBend": -1.7559743487649087,
+        "pressure": 0.3324260313780426,
+        "timbre": null,
+        "selected": false
+      },
+      "e8tbrgq": {
+        "id": "e8tbrgq",
+        "noteId": "q0u69tj",
+        "type": "Modulation",
+        "offsetTime": 1147.9945578231293,
+        "pitchBend": -2.0264464937507967,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "hk20e46": {
+        "id": "hk20e46",
+        "noteId": "4vqmbpl",
+        "type": "Modulation",
+        "offsetTime": 11.145578231292546,
+        "pitchBend": -0.0580391428394762,
+        "pressure": 0.3337923848425809,
+        "timbre": null,
+        "selected": false
+      },
+      "l8urts0": {
+        "id": "l8urts0",
+        "noteId": "4vqmbpl",
+        "type": "Modulation",
+        "offsetTime": 22.291156462585036,
+        "pitchBend": -0.3126369735378205,
+        "pressure": 0.3331113037576058,
+        "timbre": null,
+        "selected": false
+      },
+      "awe5yfu": {
+        "id": "awe5yfu",
+        "noteId": "4vqmbpl",
+        "type": "Modulation",
+        "offsetTime": 33.436734693877554,
+        "pitchBend": -0.31263697371124977,
+        "pressure": 0.3317365157988197,
+        "timbre": null,
+        "selected": false
+      },
+      "3o5be1f": {
+        "id": "3o5be1f",
+        "noteId": "dftxvf5",
+        "type": "Modulation",
+        "offsetTime": 11.145578231292518,
+        "pitchBend": 0.27901624923858037,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "yrpevp6": {
+        "id": "yrpevp6",
+        "noteId": "dftxvf5",
+        "type": "Modulation",
+        "offsetTime": 22.291156462585036,
+        "pitchBend": 0.16164399966916676,
+        "pressure": 0.33034454254577406,
+        "timbre": null,
+        "selected": false
+      },
+      "w9sxjwi": {
+        "id": "w9sxjwi",
+        "noteId": "dftxvf5",
+        "type": "Modulation",
+        "offsetTime": 33.436734693877554,
+        "pitchBend": 0.043470568129350795,
+        "pressure": 0.3296419761127116,
+        "timbre": null,
+        "selected": false
+      },
+      "28u0djw": {
+        "id": "28u0djw",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 11.14557823129249,
+        "pitchBend": -0.31939235220853845,
+        "pressure": 0.33514217603888663,
+        "timbre": null,
+        "selected": false
+      },
+      "6pn72vg": {
+        "id": "6pn72vg",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 22.291156462585008,
+        "pitchBend": -0.3793954480785544,
+        "pressure": 0.33581098531814535,
+        "timbre": null,
+        "selected": false
+      },
+      "g9lofec": {
+        "id": "g9lofec",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 33.436734693877526,
+        "pitchBend": -0.4828008572447118,
+        "pressure": 0.3410215924516762,
+        "timbre": null,
+        "selected": false
+      },
+      "fm09e2k": {
+        "id": "fm09e2k",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 44.582312925170044,
+        "pitchBend": -0.6036676138648289,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "uqb0ygs": {
+        "id": "uqb0ygs",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 55.72789115646256,
+        "pitchBend": -0.7231351019735541,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "8u6x83k": {
+        "id": "8u6x83k",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 66.87346938775508,
+        "pitchBend": -0.8283757930216069,
+        "pressure": 0.33034454254577406,
+        "timbre": null,
+        "selected": false
+      },
+      "vf3a0g1": {
+        "id": "vf3a0g1",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 78.0190476190476,
+        "pitchBend": -0.9117437067221204,
+        "pressure": 0.33581098531814535,
+        "timbre": null,
+        "selected": false
+      },
+      "k0iw00c": {
+        "id": "k0iw00c",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 89.16462585034009,
+        "pitchBend": -0.9699756108259692,
+        "pressure": 0.33581098531814535,
+        "timbre": null,
+        "selected": false
+      },
+      "aglumcs": {
+        "id": "aglumcs",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 100.31020408163263,
+        "pitchBend": -1.0033855286067705,
+        "pressure": 0.3296419761127116,
+        "timbre": null,
+        "selected": false
+      },
+      "0vgxa3n": {
+        "id": "0vgxa3n",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 111.45578231292512,
+        "pitchBend": -1.015046805459889,
+        "pressure": 0.3231110643988071,
+        "timbre": null,
+        "selected": false
+      },
+      "qvhj794": {
+        "id": "qvhj794",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 122.60136054421764,
+        "pitchBend": -1.0099858869045306,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "y3jgi8t": {
+        "id": "y3jgi8t",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 133.74693877551016,
+        "pitchBend": -0.9944226511608321,
+        "pressure": 0.3275072830700394,
+        "timbre": null,
+        "selected": false
+      },
+      "rnb8exr": {
+        "id": "rnb8exr",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 144.89251700680273,
+        "pitchBend": -0.975089031376811,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "df3nsp0": {
+        "id": "df3nsp0",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 156.0380952380952,
+        "pitchBend": -0.9586467809733961,
+        "pressure": 0.3216062251431876,
+        "timbre": null,
+        "selected": false
+      },
+      "u1fjfcv": {
+        "id": "u1fjfcv",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 167.1836734693877,
+        "pitchBend": -0.951212063494637,
+        "pressure": 0.32459583853247376,
+        "timbre": null,
+        "selected": false
+      },
+      "pdpldyx": {
+        "id": "pdpldyx",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 178.32925170068023,
+        "pitchBend": -0.9579830557208027,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "qvhxise": {
+        "id": "qvhxise",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 189.47482993197275,
+        "pitchBend": -0.982959079921514,
+        "pressure": 0.3260610755968756,
+        "timbre": null,
+        "selected": false
+      },
+      "n1owt40": {
+        "id": "n1owt40",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 200.6204081632652,
+        "pitchBend": -1.028736513811623,
+        "pressure": 0.33034454254577406,
+        "timbre": null,
+        "selected": false
+      },
+      "6iyd19f": {
+        "id": "6iyd19f",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 211.76598639455779,
+        "pitchBend": -1.0963674558050513,
+        "pressure": 0.3223611867485414,
+        "timbre": null,
+        "selected": false
+      },
+      "1se58ok": {
+        "id": "1se58ok",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 222.9115646258503,
+        "pitchBend": -1.1852709897822251,
+        "pressure": 0.32385592610752745,
+        "timbre": null,
+        "selected": false
+      },
+      "5rqubgc": {
+        "id": "5rqubgc",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 234.05714285714282,
+        "pitchBend": -1.2931929503518234,
+        "pressure": 0.3324260313780426,
+        "timbre": null,
+        "selected": false
+      },
+      "w14l03l": {
+        "id": "w14l03l",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 245.20272108843534,
+        "pitchBend": -1.4162174349626468,
+        "pressure": 0.3296419761127116,
+        "timbre": null,
+        "selected": false
+      },
+      "q716ymw": {
+        "id": "q716ymw",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 256.34829931972786,
+        "pitchBend": -1.5488410352008373,
+        "pressure": 0.312945179557078,
+        "timbre": null,
+        "selected": false
+      },
+      "wnpx7un": {
+        "id": "wnpx7un",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 267.4938775510204,
+        "pitchBend": -1.6841277898961664,
+        "pressure": 0.3216062251431876,
+        "timbre": null,
+        "selected": false
+      },
+      "9o4fg1v": {
+        "id": "9o4fg1v",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 278.6394557823129,
+        "pitchBend": -1.8139677833669339,
+        "pressure": 0.31537487035015954,
+        "timbre": null,
+        "selected": false
+      },
+      "4ncbciy": {
+        "id": "4ncbciy",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 289.7850340136054,
+        "pitchBend": -1.9294633239961456,
+        "pressure": 0.33034454254577406,
+        "timbre": null,
+        "selected": false
+      },
+      "nmvmbni": {
+        "id": "nmvmbni",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 300.93061224489793,
+        "pitchBend": -2.0214617851177223,
+        "pressure": 0.3275072830700394,
+        "timbre": null,
+        "selected": false
+      },
+      "dx9x362": {
+        "id": "dx9x362",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 312.07619047619045,
+        "pitchBend": -2.0812419972474316,
+        "pressure": 0.3208461101764123,
+        "timbre": null,
+        "selected": false
+      },
+      "oee9175": {
+        "id": "oee9175",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 323.2217687074829,
+        "pitchBend": -2.1013416064023716,
+        "pressure": 0.325330867011442,
+        "timbre": null,
+        "selected": false
+      },
+      "e0m6ido": {
+        "id": "e0m6ido",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 334.3673469387755,
+        "pitchBend": -2.0764888330601394,
+        "pressure": 0.3317365157988197,
+        "timbre": null,
+        "selected": false
+      },
+      "od239vf": {
+        "id": "od239vf",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 345.512925170068,
+        "pitchBend": -2.004579752979879,
+        "pressure": 0.33104270414466486,
+        "timbre": null,
+        "selected": false
+      },
+      "gabj4uc": {
+        "id": "gabj4uc",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 356.6585034013605,
+        "pitchBend": -1.8876305344423372,
+        "pressure": 0.3208461101764123,
+        "timbre": null,
+        "selected": false
+      },
+      "mr0tokr": {
+        "id": "mr0tokr",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 367.804081632653,
+        "pitchBend": -1.7326424792080672,
+        "pressure": 0.316965703266315,
+        "timbre": null,
+        "selected": false
+      },
+      "e4wyqp6": {
+        "id": "e4wyqp6",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 378.94965986394544,
+        "pitchBend": -1.5523530150199178,
+        "pressure": 0.312945179557078,
+        "timbre": null,
+        "selected": false
+      },
+      "pyoen1e": {
+        "id": "pyoen1e",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 390.095238095238,
+        "pitchBend": -1.36591001017932,
+        "pressure": 0.3260610755968756,
+        "timbre": null,
+        "selected": false
+      },
+      "qhg6skh": {
+        "id": "qhg6skh",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 401.2408163265306,
+        "pitchBend": -1.1995988815162946,
+        "pressure": 0.3324260313780426,
+        "timbre": null,
+        "selected": false
+      },
+      "skjw76c": {
+        "id": "skjw76c",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 412.38639455782305,
+        "pitchBend": -1.08787530587756,
+        "pressure": 0.32459583853247376,
+        "timbre": null,
+        "selected": false
+      },
+      "e426qi4": {
+        "id": "e426qi4",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 423.5319727891155,
+        "pitchBend": -1.0751337822889298,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "uurd4tv": {
+        "id": "uurd4tv",
+        "noteId": "aspd33r",
+        "type": "Modulation",
+        "offsetTime": 434.6775510204082,
+        "pitchBend": -1.2189449206442902,
+        "pressure": 0.3275072830700394,
+        "timbre": null,
+        "selected": false
+      },
+      "r3l6yx0": {
+        "id": "r3l6yx0",
+        "noteId": "iu0usxj",
+        "type": "Modulation",
+        "offsetTime": 11.145578231292461,
+        "pitchBend": 0.31785530264639306,
+        "pressure": 0.3337923848425809,
+        "timbre": null,
+        "selected": false
+      },
+      "tydw7m4": {
+        "id": "tydw7m4",
+        "noteId": "yd9qto0",
+        "type": "Modulation",
+        "offsetTime": 11.145578231292347,
+        "pitchBend": 0.4050713082142039,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "177w4w3": {
+        "id": "177w4w3",
+        "noteId": "yd9qto0",
+        "type": "Modulation",
+        "offsetTime": 22.291156462584922,
+        "pitchBend": 0.40507130821687554,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "mo1kkfe": {
+        "id": "mo1kkfe",
+        "noteId": "xvumpfx",
+        "type": "Modulation",
+        "offsetTime": 11.145578231292575,
+        "pitchBend": 0.09364571580968573,
+        "pressure": 0.3275072830700394,
+        "timbre": null,
+        "selected": false
+      },
+      "ge6oftj": {
+        "id": "ge6oftj",
+        "noteId": "xvumpfx",
+        "type": "Modulation",
+        "offsetTime": 22.291156462584922,
+        "pitchBend": 0.10020294677380548,
+        "pressure": 0.33104270414466486,
+        "timbre": null,
+        "selected": false
+      },
+      "du6c6t4": {
+        "id": "du6c6t4",
+        "noteId": "xvumpfx",
+        "type": "Modulation",
+        "offsetTime": 33.4367346938775,
+        "pitchBend": 0.1307183230163531,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "sk0xq0r": {
+        "id": "sk0xq0r",
+        "noteId": "xvumpfx",
+        "type": "Modulation",
+        "offsetTime": 44.58231292517007,
+        "pitchBend": 0.16403528057701067,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "dm3ap5g": {
+        "id": "dm3ap5g",
+        "noteId": "68ehxtj",
+        "type": "Modulation",
+        "offsetTime": 11.145578231292461,
+        "pitchBend": 0.2476563995749359,
+        "pressure": 0.3317365157988197,
+        "timbre": null,
+        "selected": false
+      },
+      "y0igxp3": {
+        "id": "y0igxp3",
+        "noteId": "68ehxtj",
+        "type": "Modulation",
+        "offsetTime": 22.291156462585036,
+        "pitchBend": 0.3663361291653473,
+        "pressure": 0.33581098531814535,
+        "timbre": null,
+        "selected": false
+      },
+      "xr82rdb": {
+        "id": "xr82rdb",
+        "noteId": "68ehxtj",
+        "type": "Modulation",
+        "offsetTime": 33.4367346938775,
+        "pitchBend": 0.45041341261203627,
+        "pressure": 0.34038344508773644,
+        "timbre": null,
+        "selected": false
+      },
+      "uroy0ng": {
+        "id": "uroy0ng",
+        "noteId": "68ehxtj",
+        "type": "Modulation",
+        "offsetTime": 44.58231292516996,
+        "pitchBend": 0.4997211206814143,
+        "pressure": 0.3422870198219954,
+        "timbre": null,
+        "selected": false
+      },
+      "jgqas54": {
+        "id": "jgqas54",
+        "noteId": "68ehxtj",
+        "type": "Modulation",
+        "offsetTime": 55.72789115646253,
+        "pitchBend": 0.5194854233741921,
+        "pressure": 0.33844676305123966,
+        "timbre": null,
+        "selected": false
+      },
+      "dl94aaw": {
+        "id": "dl94aaw",
+        "noteId": "68ehxtj",
+        "type": "Modulation",
+        "offsetTime": 66.873469387755,
+        "pitchBend": 0.5184849346076561,
+        "pressure": 0.34165610362856746,
+        "timbre": null,
+        "selected": false
+      },
+      "gsx70go": {
+        "id": "gsx70go",
+        "noteId": "68ehxtj",
+        "type": "Modulation",
+        "offsetTime": 78.01904761904757,
+        "pitchBend": 0.5070935110270796,
+        "pressure": 0.3410215924516762,
+        "timbre": null,
+        "selected": false
+      },
+      "433xoym": {
+        "id": "433xoym",
+        "noteId": "68ehxtj",
+        "type": "Modulation",
+        "offsetTime": 89.16462585034014,
+        "pitchBend": 0.49511011574838903,
+        "pressure": 0.34291438153913945,
+        "timbre": null,
+        "selected": false
+      },
+      "dp988p5": {
+        "id": "dp988p5",
+        "noteId": "68ehxtj",
+        "type": "Modulation",
+        "offsetTime": 100.3102040816326,
+        "pitchBend": 0.4893264363786898,
+        "pressure": 0.3435382286063783,
+        "timbre": null,
+        "selected": false
+      },
+      "1jhrgw6": {
+        "id": "1jhrgw6",
+        "noteId": "68ehxtj",
+        "type": "Modulation",
+        "offsetTime": 111.45578231292507,
+        "pitchBend": 0.49084501116482215,
+        "pressure": 0.33974161962070115,
+        "timbre": null,
+        "selected": false
+      },
+      "77qpk6q": {
+        "id": "77qpk6q",
+        "noteId": "68ehxtj",
+        "type": "Modulation",
+        "offsetTime": 122.60136054421764,
+        "pitchBend": 0.49219778702463657,
+        "pressure": 0.33446932559143017,
+        "timbre": null,
+        "selected": false
+      },
+      "xffbnvc": {
+        "id": "xffbnvc",
+        "noteId": "68ehxtj",
+        "type": "Modulation",
+        "offsetTime": 133.7469387755101,
+        "pitchBend": 0.4742708376210345,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "8a0jd73": {
+        "id": "8a0jd73",
+        "noteId": "w5y4qkh",
+        "type": "Modulation",
+        "offsetTime": 11.145578231292461,
+        "pitchBend": 0.4319508526718323,
+        "pressure": 0.33034454254577406,
+        "timbre": null,
+        "selected": false
+      },
+      "148ukmf": {
+        "id": "148ukmf",
+        "noteId": "w5y4qkh",
+        "type": "Modulation",
+        "offsetTime": 22.29115646258481,
+        "pitchBend": 0.4379509824516248,
+        "pressure": 0.3324260313780426,
+        "timbre": null,
+        "selected": false
+      },
+      "omgmmkw": {
+        "id": "omgmmkw",
+        "noteId": "w5y4qkh",
+        "type": "Modulation",
+        "offsetTime": 33.4367346938775,
+        "pitchBend": 0.44688355712914074,
+        "pressure": 0.3296419761127116,
+        "timbre": null,
+        "selected": false
+      },
+      "2nokmus": {
+        "id": "2nokmus",
+        "noteId": "w5y4qkh",
+        "type": "Modulation",
+        "offsetTime": 44.58231292516996,
+        "pitchBend": 0.4562759813031647,
+        "pressure": 0.3296419761127116,
+        "timbre": null,
+        "selected": false
+      },
+      "3cml85v": {
+        "id": "3cml85v",
+        "noteId": "w5y4qkh",
+        "type": "Modulation",
+        "offsetTime": 55.72789115646242,
+        "pitchBend": 0.464260658485685,
+        "pressure": 0.3296419761127116,
+        "timbre": null,
+        "selected": false
+      },
+      "jdr77bv": {
+        "id": "jdr77bv",
+        "noteId": "w5y4qkh",
+        "type": "Modulation",
+        "offsetTime": 66.873469387755,
+        "pitchBend": 0.46967444654156054,
+        "pressure": 0.3260610755968756,
+        "timbre": null,
+        "selected": false
+      },
+      "b5wu8w6": {
+        "id": "b5wu8w6",
+        "noteId": "w5y4qkh",
+        "type": "Modulation",
+        "offsetTime": 78.01904761904757,
+        "pitchBend": 0.472161268215757,
+        "pressure": 0.3275072830700394,
+        "timbre": null,
+        "selected": false
+      },
+      "bgsnd1n": {
+        "id": "bgsnd1n",
+        "noteId": "w5y4qkh",
+        "type": "Modulation",
+        "offsetTime": 89.16462585034014,
+        "pitchBend": 0.47227976831632645,
+        "pressure": 0.3260610755968756,
+        "timbre": null,
+        "selected": false
+      },
+      "dj7pl1y": {
+        "id": "dj7pl1y",
+        "noteId": "w5y4qkh",
+        "type": "Modulation",
+        "offsetTime": 100.3102040816326,
+        "pitchBend": 0.47161683980547764,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "gid8no5": {
+        "id": "gid8no5",
+        "noteId": "w5y4qkh",
+        "type": "Modulation",
+        "offsetTime": 111.45578231292518,
+        "pitchBend": 0.47290610010338696,
+        "pressure": 0.3296419761127116,
+        "timbre": null,
+        "selected": false
+      },
+      "3exlatd": {
+        "id": "3exlatd",
+        "noteId": "w5y4qkh",
+        "type": "Modulation",
+        "offsetTime": 122.60136054421764,
+        "pitchBend": 0.48014784074570116,
+        "pressure": 0.3324260313780426,
+        "timbre": null,
+        "selected": false
+      },
+      "452a6dd": {
+        "id": "452a6dd",
+        "noteId": "w5y4qkh",
+        "type": "Modulation",
+        "offsetTime": 133.74693877551022,
+        "pitchBend": 0.4987234614444276,
+        "pressure": 0.3317365157988197,
+        "timbre": null,
+        "selected": false
+      },
+      "3g4evj3": {
+        "id": "3g4evj3",
+        "noteId": "2dguoqa",
+        "type": "Modulation",
+        "offsetTime": 11.145578231292347,
+        "pitchBend": 0.034368484817861145,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "dkaecte": {
+        "id": "dkaecte",
+        "noteId": "2dguoqa",
+        "type": "Modulation",
+        "offsetTime": 22.29115646258515,
+        "pitchBend": -0.38277996700449535,
+        "pressure": 0.31537487035015954,
+        "timbre": null,
+        "selected": false
+      },
+      "02er4xo": {
+        "id": "02er4xo",
+        "noteId": "2dguoqa",
+        "type": "Modulation",
+        "offsetTime": 33.436734693877725,
+        "pitchBend": -0.797956464551774,
+        "pressure": 0.3296419761127116,
+        "timbre": null,
+        "selected": false
+      },
+      "bw5mdro": {
+        "id": "bw5mdro",
+        "noteId": "3tjblmg",
+        "type": "Modulation",
+        "offsetTime": 11.145578231292802,
+        "pitchBend": -0.424022442539993,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "7l6700r": {
+        "id": "7l6700r",
+        "noteId": "3tjblmg",
+        "type": "Modulation",
+        "offsetTime": 22.291156462585377,
+        "pitchBend": -0.42402244253966614,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "w4wnr7f": {
+        "id": "w4wnr7f",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 11.145578231292518,
+        "pitchBend": 0.10814322235212614,
+        "pressure": 0.3216062251431876,
+        "timbre": null,
+        "selected": false
+      },
+      "4y3fd4t": {
+        "id": "4y3fd4t",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 22.29115646258498,
+        "pitchBend": -0.03592310822855893,
+        "pressure": 0.3267865270893614,
+        "timbre": null,
+        "selected": false
+      },
+      "oou1ng2": {
+        "id": "oou1ng2",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 33.436734693877554,
+        "pitchBend": -0.06831456953784709,
+        "pressure": 0.33104270414466486,
+        "timbre": null,
+        "selected": false
+      },
+      "31hobsm": {
+        "id": "31hobsm",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 44.58231292517007,
+        "pitchBend": -0.008303921514581702,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "hqe463c": {
+        "id": "hqe463c",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 55.72789115646259,
+        "pitchBend": 0.12091299787360299,
+        "pressure": 0.29618816104861845,
+        "timbre": null,
+        "selected": false
+      },
+      "h096npg": {
+        "id": "h096npg",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 66.87346938775511,
+        "pitchBend": 0.2950520883478731,
+        "pressure": 0.31537487035015954,
+        "timbre": null,
+        "selected": false
+      },
+      "orw3mby": {
+        "id": "orw3mby",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 78.01904761904763,
+        "pitchBend": 0.4910211468612147,
+        "pressure": 0.32459583853247376,
+        "timbre": null,
+        "selected": false
+      },
+      "oscuviq": {
+        "id": "oscuviq",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 89.16462585034014,
+        "pitchBend": 0.6885244899205816,
+        "pressure": 0.316965703266315,
+        "timbre": null,
+        "selected": false
+      },
+      "51m8i2x": {
+        "id": "51m8i2x",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 100.31020408163266,
+        "pitchBend": 0.8710357836144738,
+        "pressure": 0.3275072830700394,
+        "timbre": null,
+        "selected": false
+      },
+      "whi49wi": {
+        "id": "whi49wi",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 111.45578231292518,
+        "pitchBend": 1.0262711135279972,
+        "pressure": 0.33104270414466486,
+        "timbre": null,
+        "selected": false
+      },
+      "hes2q5b": {
+        "id": "hes2q5b",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 122.6013605442177,
+        "pitchBend": 1.146314007387204,
+        "pressure": 0.32459583853247376,
+        "timbre": null,
+        "selected": false
+      },
+      "ik6lsrf": {
+        "id": "ik6lsrf",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 133.74693877551022,
+        "pitchBend": 1.2275198366242535,
+        "pressure": 0.33713667252570145,
+        "timbre": null,
+        "selected": false
+      },
+      "6ndqfhe": {
+        "id": "6ndqfhe",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 144.89251700680268,
+        "pitchBend": 1.2702826126044897,
+        "pressure": 0.3331113037576058,
+        "timbre": null,
+        "selected": false
+      },
+      "otx2s00": {
+        "id": "otx2s00",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 156.03809523809525,
+        "pitchBend": 1.2786987305423736,
+        "pressure": 0.3070608305221858,
+        "timbre": null,
+        "selected": false
+      },
+      "5xj3j27": {
+        "id": "5xj3j27",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 167.18367346938777,
+        "pitchBend": 1.2601184718861873,
+        "pressure": 0.29807560301787184,
+        "timbre": null,
+        "selected": false
+      },
+      "vd6mlwm": {
+        "id": "vd6mlwm",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 178.3292517006803,
+        "pitchBend": 1.2245418864909254,
+        "pressure": 0.312945179557078,
+        "timbre": null,
+        "selected": false
+      },
+      "mmxmfcv": {
+        "id": "mmxmfcv",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 189.47482993197275,
+        "pitchBend": 1.183795146327384,
+        "pressure": 0.3275072830700394,
+        "timbre": null,
+        "selected": false
+      },
+      "n5e7scr": {
+        "id": "n5e7scr",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 200.6204081632652,
+        "pitchBend": 1.1504215006523282,
+        "pressure": 0.33034454254577406,
+        "timbre": null,
+        "selected": false
+      },
+      "19ufs2b": {
+        "id": "19ufs2b",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 211.76598639455779,
+        "pitchBend": 1.136242265102993,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "bt5bdv2": {
+        "id": "bt5bdv2",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 222.91156462585036,
+        "pitchBend": 1.1505884877101238,
+        "pressure": 0.3260610755968756,
+        "timbre": null,
+        "selected": false
+      },
+      "avmsua4": {
+        "id": "avmsua4",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 234.05714285714282,
+        "pitchBend": 1.1982639158413235,
+        "pressure": 0.33514217603888663,
+        "timbre": null,
+        "selected": false
+      },
+      "p4tbjga": {
+        "id": "p4tbjga",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 245.20272108843528,
+        "pitchBend": 1.2773511121339993,
+        "pressure": 0.32459583853247376,
+        "timbre": null,
+        "selected": false
+      },
+      "q3y0db8": {
+        "id": "q3y0db8",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 256.34829931972797,
+        "pitchBend": 1.3769778794653433,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "p2amhap": {
+        "id": "p2amhap",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 267.4938775510203,
+        "pitchBend": 1.4750775302253771,
+        "pressure": 0.3331113037576058,
+        "timbre": null,
+        "selected": false
+      },
+      "hx38qwj": {
+        "id": "hx38qwj",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 278.6394557823129,
+        "pitchBend": 1.535963072639845,
+        "pressure": 0.3260610755968756,
+        "timbre": null,
+        "selected": false
+      },
+      "of0ocf3": {
+        "id": "of0ocf3",
+        "noteId": "j1ounhx",
+        "type": "Modulation",
+        "offsetTime": 289.78503401360547,
+        "pitchBend": 1.5071428298096663,
+        "pressure": 0.3296419761127116,
+        "timbre": null,
+        "selected": false
+      },
+      "bfu1yhk": {
+        "id": "bfu1yhk",
+        "noteId": "agshl62",
+        "type": "Modulation",
+        "offsetTime": 11.145578231292518,
+        "pitchBend": 0.35498727126605445,
+        "pressure": 0.3337923848425809,
+        "timbre": null,
+        "selected": false
+      },
+      "ini5v42": {
+        "id": "ini5v42",
+        "noteId": "agshl62",
+        "type": "Modulation",
+        "offsetTime": 22.291156462585036,
+        "pitchBend": 0.3549872868605348,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "vlbs60p": {
+        "id": "vlbs60p",
+        "noteId": "agshl62",
+        "type": "Modulation",
+        "offsetTime": 33.436734693877526,
+        "pitchBend": 0.285599041321035,
+        "pressure": 0.3208461101764123,
+        "timbre": null,
+        "selected": false
+      },
+      "matytso": {
+        "id": "matytso",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 11.145578231292461,
+        "pitchBend": 0.12566904519540856,
+        "pressure": 0.3317365157988197,
+        "timbre": null,
+        "selected": false
+      },
+      "ro4otlt": {
+        "id": "ro4otlt",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 22.291156462585036,
+        "pitchBend": 0.17455528638777196,
+        "pressure": 0.33581098531814535,
+        "timbre": null,
+        "selected": false
+      },
+      "k2t11d0": {
+        "id": "k2t11d0",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 33.43673469387761,
+        "pitchBend": 0.23224144734250274,
+        "pressure": 0.33844676305123966,
+        "timbre": null,
+        "selected": false
+      },
+      "a6o7yr2": {
+        "id": "a6o7yr2",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 44.58231292517007,
+        "pitchBend": 0.2928123973546519,
+        "pressure": 0.33647580168239366,
+        "timbre": null,
+        "selected": false
+      },
+      "6saevj2": {
+        "id": "6saevj2",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 55.72789115646242,
+        "pitchBend": 0.3505876640158476,
+        "pressure": 0.33446932559143017,
+        "timbre": null,
+        "selected": false
+      },
+      "ldnehk2": {
+        "id": "ldnehk2",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 66.87346938775511,
+        "pitchBend": 0.40027808141601895,
+        "pressure": 0.33104270414466486,
+        "timbre": null,
+        "selected": false
+      },
+      "7tysbyq": {
+        "id": "7tysbyq",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 78.01904761904757,
+        "pitchBend": 0.43713274168069916,
+        "pressure": 0.33514217603888663,
+        "timbre": null,
+        "selected": false
+      },
+      "3os9jow": {
+        "id": "3os9jow",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 89.16462585034003,
+        "pitchBend": 0.4570819492234932,
+        "pressure": 0.33446932559143017,
+        "timbre": null,
+        "selected": false
+      },
+      "1bd1cty": {
+        "id": "1bd1cty",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 100.3102040816326,
+        "pitchBend": 0.4568837409562718,
+        "pressure": 0.3267865270893614,
+        "timbre": null,
+        "selected": false
+      },
+      "krc28gr": {
+        "id": "krc28gr",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 111.45578231292518,
+        "pitchBend": 0.4342828623387618,
+        "pressure": 0.33104270414466486,
+        "timbre": null,
+        "selected": false
+      },
+      "bln0leu": {
+        "id": "bln0leu",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 122.60136054421775,
+        "pitchBend": 0.3881918406806335,
+        "pressure": 0.3260610755968756,
+        "timbre": null,
+        "selected": false
+      },
+      "7lht635": {
+        "id": "7lht635",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 133.74693877551022,
+        "pitchBend": 0.31890382310098175,
+        "pressure": 0.3260610755968756,
+        "timbre": null,
+        "selected": false
+      },
+      "6xvrfmb": {
+        "id": "6xvrfmb",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 144.8925170068028,
+        "pitchBend": 0.22834579190086401,
+        "pressure": 0.3317365157988197,
+        "timbre": null,
+        "selected": false
+      },
+      "b15114j": {
+        "id": "b15114j",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 156.03809523809525,
+        "pitchBend": 0.12037797830788577,
+        "pressure": 0.33446932559143017,
+        "timbre": null,
+        "selected": false
+      },
+      "atvvyro": {
+        "id": "atvvyro",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 167.18367346938783,
+        "pitchBend": 0.0011397210929970925,
+        "pressure": 0.3296419761127116,
+        "timbre": null,
+        "selected": false
+      },
+      "wxja27x": {
+        "id": "wxja27x",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 178.32925170068017,
+        "pitchBend": -0.12056781267060046,
+        "pressure": 0.3260610755968756,
+        "timbre": null,
+        "selected": false
+      },
+      "1kmn869": {
+        "id": "1kmn869",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 189.47482993197252,
+        "pitchBend": -0.23288746731937238,
+        "pressure": 0.3296419761127116,
+        "timbre": null,
+        "selected": false
+      },
+      "wgrxjte": {
+        "id": "wgrxjte",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 200.6204081632651,
+        "pitchBend": -0.32054930806128823,
+        "pressure": 0.3317365157988197,
+        "timbre": null,
+        "selected": false
+      },
+      "wylgutk": {
+        "id": "wylgutk",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 211.7659863945579,
+        "pitchBend": -0.3646310757965665,
+        "pressure": 0.33104270414466486,
+        "timbre": null,
+        "selected": false
+      },
+      "y0m5f20": {
+        "id": "y0m5f20",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 222.91156462585025,
+        "pitchBend": -0.3425511433163848,
+        "pressure": 0.3267865270893614,
+        "timbre": null,
+        "selected": false
+      },
+      "esjkmkt": {
+        "id": "esjkmkt",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 234.05714285714282,
+        "pitchBend": -0.22843921943811552,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "5sfd9qv": {
+        "id": "5sfd9qv",
+        "noteId": "8kjc986",
+        "type": "Modulation",
+        "offsetTime": 245.2027210884354,
+        "pitchBend": 0.005963633037794125,
+        "pressure": 0.32385592610752745,
+        "timbre": null,
+        "selected": false
+      },
+      "agihqjp": {
+        "id": "agihqjp",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 11.145578231292347,
+        "pitchBend": 0.22816119585188233,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "5s2qodj": {
+        "id": "5s2qodj",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 22.291156462584922,
+        "pitchBend": 0.19874987923141418,
+        "pressure": 0.33647580168239366,
+        "timbre": null,
+        "selected": false
+      },
+      "16k91om": {
+        "id": "16k91om",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 33.4367346938775,
+        "pitchBend": 0.17570078366495068,
+        "pressure": 0.34165610362856746,
+        "timbre": null,
+        "selected": false
+      },
+      "2bggp7j": {
+        "id": "2bggp7j",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 44.582312925169845,
+        "pitchBend": 0.15852055478245575,
+        "pressure": 0.3337923848425809,
+        "timbre": null,
+        "selected": false
+      },
+      "fxk5bw3": {
+        "id": "fxk5bw3",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 55.72789115646242,
+        "pitchBend": 0.1467253529212087,
+        "pressure": 0.3377936444032955,
+        "timbre": null,
+        "selected": false
+      },
+      "ey24qkb": {
+        "id": "ey24qkb",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 66.873469387755,
+        "pitchBend": 0.1398431629111485,
+        "pressure": 0.33446932559143017,
+        "timbre": null,
+        "selected": false
+      },
+      "w1qymj8": {
+        "id": "w1qymj8",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 78.01904761904757,
+        "pitchBend": 0.13741584272548835,
+        "pressure": 0.3377936444032955,
+        "timbre": null,
+        "selected": false
+      },
+      "lle1aan": {
+        "id": "lle1aan",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 89.16462585034014,
+        "pitchBend": 0.13900091442594942,
+        "pressure": 0.33713667252570145,
+        "timbre": null,
+        "selected": false
+      },
+      "89k3aag": {
+        "id": "89k3aag",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 100.31020408163249,
+        "pitchBend": 0.1441731041395684,
+        "pressure": 0.33104270414466486,
+        "timbre": null,
+        "selected": false
+      },
+      "d3qmsou": {
+        "id": "d3qmsou",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 111.45578231292484,
+        "pitchBend": 0.15252564046538453,
+        "pressure": 0.31537487035015954,
+        "timbre": null,
+        "selected": false
+      },
+      "ejqj85r": {
+        "id": "ejqj85r",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 122.60136054421741,
+        "pitchBend": 0.16367132278833196,
+        "pressure": 0.32459583853247376,
+        "timbre": null,
+        "selected": false
+      },
+      "1tqq4et": {
+        "id": "1tqq4et",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 133.74693877551,
+        "pitchBend": 0.17724337247896926,
+        "pressure": 0.32385592610752745,
+        "timbre": null,
+        "selected": false
+      },
+      "cab4qk3": {
+        "id": "cab4qk3",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 144.89251700680234,
+        "pitchBend": 0.1928960809132576,
+        "pressure": 0.33104270414466486,
+        "timbre": null,
+        "selected": false
+      },
+      "t2otw5x": {
+        "id": "t2otw5x",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 156.03809523809514,
+        "pitchBend": 0.21030526877555644,
+        "pressure": 0.3324260313780426,
+        "timbre": null,
+        "selected": false
+      },
+      "67r55d1": {
+        "id": "67r55d1",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 167.1836734693877,
+        "pitchBend": 0.2291685712404501,
+        "pressure": 0.3296419761127116,
+        "timbre": null,
+        "selected": false
+      },
+      "bwrqxom": {
+        "id": "bwrqxom",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 178.3292517006803,
+        "pitchBend": 0.24920556337997368,
+        "pressure": 0.3275072830700394,
+        "timbre": null,
+        "selected": false
+      },
+      "hij6xae": {
+        "id": "hij6xae",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 189.47482993197264,
+        "pitchBend": 0.2701577396512107,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "2xsl9od": {
+        "id": "2xsl9od",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 200.6204081632652,
+        "pitchBend": 0.291788360628658,
+        "pressure": 0.32385592610752745,
+        "timbre": null,
+        "selected": false
+      },
+      "1m8me39": {
+        "id": "1m8me39",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 211.76598639455779,
+        "pitchBend": 0.31388217919798933,
+        "pressure": 0.28519340362262147,
+        "timbre": null,
+        "selected": false
+      },
+      "04xhd2d": {
+        "id": "04xhd2d",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 222.91156462585013,
+        "pitchBend": 0.3362450574875311,
+        "pressure": 0.3216062251431876,
+        "timbre": null,
+        "selected": false
+      },
+      "3168uem": {
+        "id": "3168uem",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 234.0571428571427,
+        "pitchBend": 0.35870348467170743,
+        "pressure": 0.3324260313780426,
+        "timbre": null,
+        "selected": false
+      },
+      "a6an8vg": {
+        "id": "a6an8vg",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 245.2027210884355,
+        "pitchBend": 0.38110400466317174,
+        "pressure": 0.3317365157988197,
+        "timbre": null,
+        "selected": false
+      },
+      "cy6jw3s": {
+        "id": "cy6jw3s",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 256.34829931972763,
+        "pitchBend": 0.40331256159025486,
+        "pressure": 0.33034454254577406,
+        "timbre": null,
+        "selected": false
+      },
+      "ynmhg46": {
+        "id": "ynmhg46",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 267.4938775510202,
+        "pitchBend": 0.4252137698179723,
+        "pressure": 0.3231110643988071,
+        "timbre": null,
+        "selected": false
+      },
+      "417ixru": {
+        "id": "417ixru",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 278.6394557823128,
+        "pitchBend": 0.44671011414919803,
+        "pressure": 0.3267865270893614,
+        "timbre": null,
+        "selected": false
+      },
+      "ap0uinx": {
+        "id": "ap0uinx",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 289.7850340136051,
+        "pitchBend": 0.4677210848813189,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "by4eakc": {
+        "id": "by4eakc",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 300.9306122448977,
+        "pitchBend": 0.48818225136466253,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "tw68qrg": {
+        "id": "tw68qrg",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 312.0761904761903,
+        "pitchBend": 0.5080442768656042,
+        "pressure": 0.3216062251431876,
+        "timbre": null,
+        "selected": false
+      },
+      "xcckubk": {
+        "id": "xcckubk",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 323.22176870748285,
+        "pitchBend": 0.5272718767151474,
+        "pressure": 0.31376098108312567,
+        "timbre": null,
+        "selected": false
+      },
+      "jtsp1el": {
+        "id": "jtsp1el",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 334.3673469387754,
+        "pitchBend": 0.5458427210624706,
+        "pressure": 0.33034454254577406,
+        "timbre": null,
+        "selected": false
+      },
+      "9apei00": {
+        "id": "9apei00",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 345.512925170068,
+        "pitchBend": 0.5637462829008797,
+        "pressure": 0.3267865270893614,
+        "timbre": null,
+        "selected": false
+      },
+      "jde7jdp": {
+        "id": "jde7jdp",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 356.65850340136035,
+        "pitchBend": 0.5809826315714304,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "pqq7mri": {
+        "id": "pqq7mri",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 367.8040816326529,
+        "pitchBend": 0.597561171505788,
+        "pressure": 0.3317365157988197,
+        "timbre": null,
+        "selected": false
+      },
+      "c5f1cxg": {
+        "id": "c5f1cxg",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 378.9496598639455,
+        "pitchBend": 0.6134993256833638,
+        "pressure": 0.34165610362856746,
+        "timbre": null,
+        "selected": false
+      },
+      "uqccp5i": {
+        "id": "uqccp5i",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 390.09523809523785,
+        "pitchBend": 0.628821163059115,
+        "pressure": 0.3422870198219954,
+        "timbre": null,
+        "selected": false
+      },
+      "jssgpv0": {
+        "id": "jssgpv0",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 401.2408163265304,
+        "pitchBend": 0.6435559690366688,
+        "pressure": 0.33514217603888663,
+        "timbre": null,
+        "selected": false
+      },
+      "bewcdot": {
+        "id": "bewcdot",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 412.386394557823,
+        "pitchBend": 0.6577367580710529,
+        "pressure": 0.3472096515947589,
+        "timbre": null,
+        "selected": false
+      },
+      "qcu0i95": {
+        "id": "qcu0i95",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 423.53197278911557,
+        "pitchBend": 0.6713987274217743,
+        "pressure": 0.34599924391379355,
+        "timbre": null,
+        "selected": false
+      },
+      "3x1nk3l": {
+        "id": "3x1nk3l",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 434.6775510204079,
+        "pitchBend": 0.6845776511989357,
+        "pressure": 0.3435382286063783,
+        "timbre": null,
+        "selected": false
+      },
+      "ony6c64": {
+        "id": "ony6c64",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 445.8231292517005,
+        "pitchBend": 0.6973082139419375,
+        "pressure": 0.3410215924516762,
+        "timbre": null,
+        "selected": false
+      },
+      "p56rlm3": {
+        "id": "p56rlm3",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 456.96870748299307,
+        "pitchBend": 0.7096222830314503,
+        "pressure": 0.33647580168239366,
+        "timbre": null,
+        "selected": false
+      },
+      "1n62veb": {
+        "id": "1n62veb",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 468.1142857142854,
+        "pitchBend": 0.7215471195001726,
+        "pressure": 0.3441586001844624,
+        "timbre": null,
+        "selected": false
+      },
+      "3302oww": {
+        "id": "3302oww",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 479.259863945578,
+        "pitchBend": 0.7331035268091455,
+        "pressure": 0.34477553478326406,
+        "timbre": null,
+        "selected": false
+      },
+      "haktd09": {
+        "id": "haktd09",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 490.40544217687057,
+        "pitchBend": 0.744303937319529,
+        "pressure": 0.33844676305123966,
+        "timbre": null,
+        "selected": false
+      },
+      "r0vyynt": {
+        "id": "r0vyynt",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 501.55102040816314,
+        "pitchBend": 0.7551504361513537,
+        "pressure": 0.3435382286063783,
+        "timbre": null,
+        "selected": false
+      },
+      "epg4x30": {
+        "id": "epg4x30",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 512.6965986394557,
+        "pitchBend": 0.7656327220987578,
+        "pressure": 0.3422870198219954,
+        "timbre": null,
+        "selected": false
+      },
+      "052mr64": {
+        "id": "052mr64",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 523.8421768707483,
+        "pitchBend": 0.7757260049891244,
+        "pressure": 0.33514217603888663,
+        "timbre": null,
+        "selected": false
+      },
+      "3suwbq3": {
+        "id": "3suwbq3",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 534.9877551020406,
+        "pitchBend": 0.7853888385338337,
+        "pressure": 0.33844676305123966,
+        "timbre": null,
+        "selected": false
+      },
+      "b0ky6lm": {
+        "id": "b0ky6lm",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 546.1333333333332,
+        "pitchBend": 0.7945608871389851,
+        "pressure": 0.34038344508773644,
+        "timbre": null,
+        "selected": false
+      },
+      "bcj4mi4": {
+        "id": "bcj4mi4",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 557.2789115646258,
+        "pitchBend": 0.8031606242274165,
+        "pressure": 0.3317365157988197,
+        "timbre": null,
+        "selected": false
+      },
+      "1ywh615": {
+        "id": "1ywh615",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 568.4244897959179,
+        "pitchBend": 0.811082958550287,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "a0vg4tg": {
+        "id": "a0vg4tg",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 579.5700680272107,
+        "pitchBend": 0.8181967834264015,
+        "pressure": 0.33581098531814535,
+        "timbre": null,
+        "selected": false
+      },
+      "w1oqxns": {
+        "id": "w1oqxns",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 590.7156462585033,
+        "pitchBend": 0.8243424418823082,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "yel2rm4": {
+        "id": "yel2rm4",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 601.8612244897956,
+        "pitchBend": 0.8293290983295662,
+        "pressure": 0.3337923848425809,
+        "timbre": null,
+        "selected": false
+      },
+      "58ghjk9": {
+        "id": "58ghjk9",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 613.0068027210882,
+        "pitchBend": 0.8329320043623198,
+        "pressure": 0.3410215924516762,
+        "timbre": null,
+        "selected": false
+      },
+      "9plr1s2": {
+        "id": "9plr1s2",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 624.1523809523808,
+        "pitchBend": 0.8348896427018531,
+        "pressure": 0.3410215924516762,
+        "timbre": null,
+        "selected": false
+      },
+      "0uh3fd6": {
+        "id": "0uh3fd6",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 635.2979591836731,
+        "pitchBend": 0.8349007288621522,
+        "pressure": 0.3377936444032955,
+        "timbre": null,
+        "selected": false
+      },
+      "gn8ox06": {
+        "id": "gn8ox06",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 646.4435374149657,
+        "pitchBend": 0.8326210449605611,
+        "pressure": 0.3390960734055407,
+        "timbre": null,
+        "selected": false
+      },
+      "j31xrk4": {
+        "id": "j31xrk4",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 657.5891156462583,
+        "pitchBend": 0.827660073637901,
+        "pressure": 0.33104270414466486,
+        "timbre": null,
+        "selected": false
+      },
+      "35in5mu": {
+        "id": "35in5mu",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 668.7346938775511,
+        "pitchBend": 0.8195773927528194,
+        "pressure": 0.32459583853247376,
+        "timbre": null,
+        "selected": false
+      },
+      "hts3ubj": {
+        "id": "hts3ubj",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 679.8802721088434,
+        "pitchBend": 0.8078787823863536,
+        "pressure": 0.3337923848425809,
+        "timbre": null,
+        "selected": false
+      },
+      "ci80ow5": {
+        "id": "ci80ow5",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 691.0258503401358,
+        "pitchBend": 0.7920119850571439,
+        "pressure": 0.3317365157988197,
+        "timbre": null,
+        "selected": false
+      },
+      "7i2bx2x": {
+        "id": "7i2bx2x",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 702.1714285714286,
+        "pitchBend": 0.7713620472178775,
+        "pressure": 0.3260610755968756,
+        "timbre": null,
+        "selected": false
+      },
+      "bj8ulss": {
+        "id": "bj8ulss",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 713.3170068027207,
+        "pitchBend": 0.7452461546518663,
+        "pressure": 0.3331113037576058,
+        "timbre": null,
+        "selected": false
+      },
+      "bwbcrb1": {
+        "id": "bwbcrb1",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 724.4625850340135,
+        "pitchBend": 0.7129078556418733,
+        "pressure": 0.33446932559143017,
+        "timbre": null,
+        "selected": false
+      },
+      "2jur343": {
+        "id": "2jur343",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 735.6081632653056,
+        "pitchBend": 0.6735105431567945,
+        "pressure": 0.3377936444032955,
+        "timbre": null,
+        "selected": false
+      },
+      "aksmqse": {
+        "id": "aksmqse",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 746.7537414965986,
+        "pitchBend": 0.6261300392077089,
+        "pressure": 0.3337923848425809,
+        "timbre": null,
+        "selected": false
+      },
+      "kswq9fq": {
+        "id": "kswq9fq",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 757.899319727891,
+        "pitchBend": 0.5697460903199811,
+        "pressure": 0.3317365157988197,
+        "timbre": null,
+        "selected": false
+      },
+      "o9y58e4": {
+        "id": "o9y58e4",
+        "noteId": "f2a0ajg",
+        "type": "Modulation",
+        "offsetTime": 769.0448979591836,
+        "pitchBend": 0.5032325398699129,
+        "pressure": 0.325330867011442,
+        "timbre": null,
+        "selected": false
+      },
+      "lxpant0": {
+        "id": "lxpant0",
+        "noteId": "92vxvbq",
+        "type": "Modulation",
+        "offsetTime": 11.145578231292518,
+        "pitchBend": 0.29830451256613344,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "edc3pve": {
+        "id": "edc3pve",
+        "noteId": "92vxvbq",
+        "type": "Modulation",
+        "offsetTime": 22.291156462585008,
+        "pitchBend": 0.3637562475187792,
+        "pressure": 0.3296419761127116,
+        "timbre": null,
+        "selected": false
+      },
+      "irqsk3o": {
+        "id": "irqsk3o",
+        "noteId": "92vxvbq",
+        "type": "Modulation",
+        "offsetTime": 33.436734693877554,
+        "pitchBend": 0.3637551031241344,
+        "pressure": 0.3177526776389604,
+        "timbre": null,
+        "selected": false
+      },
+      "o2h1nad": {
+        "id": "o2h1nad",
+        "noteId": "92vxvbq",
+        "type": "Modulation",
+        "offsetTime": 44.582312925170044,
+        "pitchBend": 0.5586418897257772,
+        "pressure": 0.3208461101764123,
+        "timbre": null,
+        "selected": false
+      },
+      "wja5y8i": {
+        "id": "wja5y8i",
+        "noteId": "737ckk1",
+        "type": "Modulation",
+        "offsetTime": 11.145578231292518,
+        "pitchBend": 0.4622478742506928,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "ue84pi1": {
+        "id": "ue84pi1",
+        "noteId": "737ckk1",
+        "type": "Modulation",
+        "offsetTime": 22.291156462585036,
+        "pitchBend": 0.4530429711722519,
+        "pressure": 0.33034454254577406,
+        "timbre": null,
+        "selected": false
+      },
+      "j2u03n9": {
+        "id": "j2u03n9",
+        "noteId": "737ckk1",
+        "type": "Modulation",
+        "offsetTime": 33.436734693877554,
+        "pitchBend": 0.3739979681524517,
+        "pressure": 0.3324260313780426,
+        "timbre": null,
+        "selected": false
+      },
+      "cr51rcm": {
+        "id": "cr51rcm",
+        "noteId": "737ckk1",
+        "type": "Modulation",
+        "offsetTime": 44.58231292517007,
+        "pitchBend": 0.285975470991616,
+        "pressure": 0.31931013533824504,
+        "timbre": null,
+        "selected": false
+      },
+      "acx6if1": {
+        "id": "acx6if1",
+        "noteId": "737ckk1",
+        "type": "Modulation",
+        "offsetTime": 55.72789115646259,
+        "pitchBend": 0.22307757749079826,
+        "pressure": 0.297135880898843,
+        "timbre": null,
+        "selected": false
+      },
+      "agdy5vx": {
+        "id": "agdy5vx",
+        "noteId": "737ckk1",
+        "type": "Modulation",
+        "offsetTime": 66.87346938775511,
+        "pitchBend": 0.1963033933740519,
+        "pressure": 0.3161731276054588,
+        "timbre": null,
+        "selected": false
+      },
+      "xgfgr88": {
+        "id": "xgfgr88",
+        "noteId": "737ckk1",
+        "type": "Modulation",
+        "offsetTime": 78.01904761904763,
+        "pitchBend": 0.19865626341240272,
+        "pressure": 0.3177526776389604,
+        "timbre": null,
+        "selected": false
+      },
+      "s8dsh2e": {
+        "id": "s8dsh2e",
+        "noteId": "737ckk1",
+        "type": "Modulation",
+        "offsetTime": 89.16462585034009,
+        "pitchBend": 0.21215464898983782,
+        "pressure": 0.3087740398562365,
+        "timbre": null,
+        "selected": false
+      },
+      "fw1vijx": {
+        "id": "fw1vijx",
+        "noteId": "737ckk1",
+        "type": "Modulation",
+        "offsetTime": 100.31020408163266,
+        "pitchBend": 0.21645048499328823,
+        "pressure": 0.3260610755968756,
+        "timbre": null,
+        "selected": false
+      },
+      "bye2m9s": {
+        "id": "bye2m9s",
+        "noteId": "737ckk1",
+        "type": "Modulation",
+        "offsetTime": 111.45578231292518,
+        "pitchBend": 0.19871170192453746,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "lxhgfyn": {
+        "id": "lxhgfyn",
+        "noteId": "737ckk1",
+        "type": "Modulation",
+        "offsetTime": 122.6013605442177,
+        "pitchBend": 0.16483132162009895,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "xxgt5ub": {
+        "id": "xxgt5ub",
+        "noteId": "737ckk1",
+        "type": "Modulation",
+        "offsetTime": 133.74693877551016,
+        "pitchBend": 0.15228429117699704,
+        "pressure": 0.316965703266315,
+        "timbre": null,
+        "selected": false
+      },
+      "c90qnqk": {
+        "id": "c90qnqk",
+        "noteId": "bngk3bk",
+        "type": "Modulation",
+        "offsetTime": 11.14557823129212,
+        "pitchBend": -0.10736983903601072,
+        "pressure": 0.33713667252570145,
+        "timbre": null,
+        "selected": false
+      },
+      "mbmsuij": {
+        "id": "mbmsuij",
+        "noteId": "bngk3bk",
+        "type": "Modulation",
+        "offsetTime": 22.291156462584695,
+        "pitchBend": -0.20189340126334798,
+        "pressure": 0.33581098531814535,
+        "timbre": null,
+        "selected": false
+      },
+      "r2w5jau": {
+        "id": "r2w5jau",
+        "noteId": "bngk3bk",
+        "type": "Modulation",
+        "offsetTime": 33.43673469387727,
+        "pitchBend": -0.22278578368141666,
+        "pressure": 0.32385592610752745,
+        "timbre": null,
+        "selected": false
+      },
+      "95g2s8d": {
+        "id": "95g2s8d",
+        "noteId": "neog5pm",
+        "type": "Modulation",
+        "offsetTime": 11.145578231292461,
+        "pitchBend": 0.4656442233639666,
+        "pressure": 0.32893494891051567,
+        "timbre": null,
+        "selected": false
+      },
+      "hhf3ixq": {
+        "id": "hhf3ixq",
+        "noteId": "dul8nlv",
+        "type": "Modulation",
+        "offsetTime": 11.145578231292461,
+        "pitchBend": 0.056199918859235254,
+        "pressure": 0.3275072830700394,
+        "timbre": null,
+        "selected": false
+      },
+      "yhk9lxi": {
+        "id": "yhk9lxi",
+        "noteId": "dul8nlv",
+        "type": "Modulation",
+        "offsetTime": 22.291156462585036,
+        "pitchBend": -0.26342159902142726,
+        "pressure": 0.3296419761127116,
+        "timbre": null,
+        "selected": false
+      },
+      "uaef5dk": {
+        "id": "uaef5dk",
+        "noteId": "crj3mxu",
+        "type": "Modulation",
+        "offsetTime": 11.145578231292575,
+        "pitchBend": 0.14328211020935555,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "5o20nl2": {
+        "id": "5o20nl2",
+        "noteId": "crj3mxu",
+        "type": "Modulation",
+        "offsetTime": 22.29115646258515,
+        "pitchBend": 0.11198101358601775,
+        "pressure": 0.33713667252570145,
+        "timbre": null,
+        "selected": false
+      },
+      "gsidxpw": {
+        "id": "gsidxpw",
+        "noteId": "crj3mxu",
+        "type": "Modulation",
+        "offsetTime": 33.4367346938775,
+        "pitchBend": 0.08695249004269101,
+        "pressure": 0.3324260313780426,
+        "timbre": null,
+        "selected": false
+      }
+    }
+  },
+  "noteOffs": {
+    "$connection": "entities",
+    "$name": "noteOffs",
+    "data": {
+      "2e7kmdk": {
+        "id": "2e7kmdk",
+        "noteId": "q0u69tj",
+        "type": "NoteOff",
+        "offsetTime": 1159.1401360544214,
+        "noteOffVelocity": 0.31376098108312567,
+        "pitchBend": -2.305797517967946,
+        "pressure": 0.31376098108312567,
+        "timbre": null,
+        "selected": false
+      },
+      "ed7kuqd": {
+        "id": "ed7kuqd",
+        "noteId": "4vqmbpl",
+        "type": "NoteOff",
+        "offsetTime": 44.58231292517007,
+        "noteOffVelocity": 0.3223611867485414,
+        "pitchBend": -0.3126369737127561,
+        "pressure": 0.3223611867485414,
+        "timbre": null,
+        "selected": false
+      },
+      "2jdg0wl": {
+        "id": "2jdg0wl",
+        "noteId": "dftxvf5",
+        "type": "NoteOff",
+        "offsetTime": 44.58231292517006,
+        "noteOffVelocity": 0.32385592610752745,
+        "pitchBend": 0.1616439995397343,
+        "pressure": 0.32385592610752745,
+        "timbre": null,
+        "selected": false
+      },
+      "h9d47w7": {
+        "id": "h9d47w7",
+        "noteId": "jfwuqnm",
+        "type": "NoteOff",
+        "offsetTime": 11.145578231292518,
+        "noteOffVelocity": 0.32822340393197325,
+        "pitchBend": 0.16164399972740284,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "fusb1k5": {
+        "id": "fusb1k5",
+        "noteId": "aspd33r",
+        "type": "NoteOff",
+        "offsetTime": 445.82312925170055,
+        "noteOffVelocity": 0.3216062251431876,
+        "pitchBend": -1.5961079827283555,
+        "pressure": 0.3216062251431876,
+        "timbre": null,
+        "selected": false
+      },
+      "wq2c19w": {
+        "id": "wq2c19w",
+        "noteId": "iu0usxj",
+        "type": "NoteOff",
+        "offsetTime": 22.291156462584922,
+        "noteOffVelocity": 0.31931013533824504,
+        "pitchBend": 0.40507130821481496,
+        "pressure": 0.31931013533824504,
+        "timbre": null,
+        "selected": false
+      },
+      "kpl4e3c": {
+        "id": "kpl4e3c",
+        "noteId": "yd9qto0",
+        "type": "NoteOff",
+        "offsetTime": 33.4367346938775,
+        "noteOffVelocity": 0.3223611867485414,
+        "pitchBend": 0.4050713082065158,
+        "pressure": 0.3223611867485414,
+        "timbre": null,
+        "selected": false
+      },
+      "2a6kcfk": {
+        "id": "2a6kcfk",
+        "noteId": "xvumpfx",
+        "type": "NoteOff",
+        "offsetTime": 55.72789115646265,
+        "noteOffVelocity": 0.3260610755968756,
+        "pitchBend": 0.1773794338272694,
+        "pressure": 0.3260610755968756,
+        "timbre": null,
+        "selected": false
+      },
+      "pdbsxlr": {
+        "id": "pdbsxlr",
+        "noteId": "68ehxtj",
+        "type": "NoteOff",
+        "offsetTime": 144.89251700680268,
+        "noteOffVelocity": 0.325330867011442,
+        "pitchBend": 0.4028437533114584,
+        "pressure": 0.325330867011442,
+        "timbre": null,
+        "selected": false
+      },
+      "g545r3f": {
+        "id": "g545r3f",
+        "noteId": "w5y4qkh",
+        "type": "NoteOff",
+        "offsetTime": 144.89251700680256,
+        "noteOffVelocity": 0.32822340393197325,
+        "pitchBend": 0.5354928768861242,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "xrpyfu6": {
+        "id": "xrpyfu6",
+        "noteId": "2dguoqa",
+        "type": "NoteOff",
+        "offsetTime": 44.5823129251703,
+        "noteOffVelocity": 0.325330867011442,
+        "pitchBend": -0.6964342269570523,
+        "pressure": 0.325330867011442,
+        "timbre": null,
+        "selected": false
+      },
+      "bdpnspq": {
+        "id": "bdpnspq",
+        "noteId": "3tjblmg",
+        "type": "NoteOff",
+        "offsetTime": 33.436734693877725,
+        "noteOffVelocity": 0.316965703266315,
+        "pitchBend": -0.42402244253781873,
+        "pressure": 0.316965703266315,
+        "timbre": null,
+        "selected": false
+      },
+      "ylwcsyh": {
+        "id": "ylwcsyh",
+        "noteId": "j1ounhx",
+        "type": "NoteOff",
+        "offsetTime": 300.93061224489793,
+        "noteOffVelocity": 0.3260610755968756,
+        "pitchBend": 1.3141137554428752,
+        "pressure": 0.3260610755968756,
+        "timbre": null,
+        "selected": false
+      },
+      "ih1gfi3": {
+        "id": "ih1gfi3",
+        "noteId": "agshl62",
+        "type": "NoteOff",
+        "offsetTime": 44.58231292517007,
+        "noteOffVelocity": 0.31457084945467095,
+        "pitchBend": 0.14598264252637705,
+        "pressure": 0.31457084945467095,
+        "timbre": null,
+        "selected": false
+      },
+      "ce9kc7w": {
+        "id": "ce9kc7w",
+        "noteId": "8kjc986",
+        "type": "NoteOff",
+        "offsetTime": 256.34829931972774,
+        "noteOffVelocity": 0.3275072830700394,
+        "pitchBend": 0.38976670358518106,
+        "pressure": 0.3275072830700394,
+        "timbre": null,
+        "selected": false
+      },
+      "pr52hgw": {
+        "id": "pr52hgw",
+        "noteId": "f2a0ajg",
+        "type": "NoteOff",
+        "offsetTime": 780.1904761904761,
+        "noteOffVelocity": 0.3035532520305926,
+        "pitchBend": 0.42534588941464335,
+        "pressure": 0.3035532520305926,
+        "timbre": null,
+        "selected": false
+      },
+      "w2eqw59": {
+        "id": "w2eqw59",
+        "noteId": "92vxvbq",
+        "type": "NoteOff",
+        "offsetTime": 55.72789115646256,
+        "noteOffVelocity": 0.32459583853247376,
+        "pitchBend": 0.6231191130382143,
+        "pressure": 0.32459583853247376,
+        "timbre": null,
+        "selected": false
+      },
+      "908crhb": {
+        "id": "908crhb",
+        "noteId": "cvp106r",
+        "type": "NoteOff",
+        "offsetTime": 0,
+        "noteOffVelocity": 0.32822340393197325,
+        "pitchBend": 0.49392704194167436,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "p1tvtey": {
+        "id": "p1tvtey",
+        "noteId": "737ckk1",
+        "type": "NoteOff",
+        "offsetTime": 144.89251700680262,
+        "noteOffVelocity": 0.3223611867485414,
+        "pitchBend": 0.24410375430761633,
+        "pressure": 0.3223611867485414,
+        "timbre": null,
+        "selected": false
+      },
+      "5p3bum2": {
+        "id": "5p3bum2",
+        "noteId": "bngk3bk",
+        "type": "NoteOff",
+        "offsetTime": 44.58231292516962,
+        "noteOffVelocity": 0.3275072830700394,
+        "pitchBend": -0.10688718770730077,
+        "pressure": 0.3275072830700394,
+        "timbre": null,
+        "selected": false
+      },
+      "k98bw96": {
+        "id": "k98bw96",
+        "noteId": "neog5pm",
+        "type": "NoteOff",
+        "offsetTime": 22.291156462585036,
+        "noteOffVelocity": 0.32822340393197325,
+        "pitchBend": 0.4656442233639666,
+        "pressure": 0.32822340393197325,
+        "timbre": null,
+        "selected": false
+      },
+      "obgg7xy": {
+        "id": "obgg7xy",
+        "noteId": "dul8nlv",
+        "type": "NoteOff",
+        "offsetTime": 33.43673469387761,
+        "noteOffVelocity": 0.32008077101080146,
+        "pitchBend": -0.15622410152876398,
+        "pressure": 0.32008077101080146,
+        "timbre": null,
+        "selected": false
+      },
+      "1vhcxnt": {
+        "id": "1vhcxnt",
+        "noteId": "crj3mxu",
+        "type": "NoteOff",
+        "offsetTime": 44.582312925169845,
+        "noteOffVelocity": 0.316965703266315,
+        "pitchBend": 0.1276306026691998,
+        "pressure": 0.316965703266315,
+        "timbre": null,
+        "selected": false
+      }
+    }
+  },
+  "notes": {
+    "$connection": "entities",
+    "$name": "notes",
+    "data": {
+      "q0u69tj": {
+        "id": "q0u69tj",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 91,
+        "offsetTime": 646.4435374149659,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "4vqmbpl": {
+        "id": "4vqmbpl",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 90,
+        "offsetTime": 133.7469387755102,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "dftxvf5": {
+        "id": "dftxvf5",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 91,
+        "offsetTime": 89.16462585034013,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "jfwuqnm": {
+        "id": "jfwuqnm",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 91,
+        "offsetTime": 189.47482993197278,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "aspd33r": {
+        "id": "aspd33r",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 97,
+        "offsetTime": 144.89251700680273,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "iu0usxj": {
+        "id": "iu0usxj",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 96,
+        "offsetTime": 657.5891156462585,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "yd9qto0": {
+        "id": "yd9qto0",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 96,
+        "offsetTime": 1761.0013605442177,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "xvumpfx": {
+        "id": "xvumpfx",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 97,
+        "offsetTime": 1682.98231292517,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "68ehxtj": {
+        "id": "68ehxtj",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 99,
+        "offsetTime": 702.1714285714286,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "w5y4qkh": {
+        "id": "w5y4qkh",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 99,
+        "offsetTime": 880.5006802721089,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "2dguoqa": {
+        "id": "2dguoqa",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 100,
+        "offsetTime": 1125.7034013605441,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "3tjblmg": {
+        "id": "3tjblmg",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 100,
+        "offsetTime": 1214.868027210884,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "j1ounhx": {
+        "id": "j1ounhx",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 100,
+        "offsetTime": 323.22176870748297,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "agshl62": {
+        "id": "agshl62",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 100,
+        "offsetTime": 200.6204081632653,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "8kjc986": {
+        "id": "8kjc986",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 101,
+        "offsetTime": 847.0639455782313,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "f2a0ajg": {
+        "id": "f2a0ajg",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 101,
+        "offsetTime": 1237.1591836734694,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "92vxvbq": {
+        "id": "92vxvbq",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 101,
+        "offsetTime": 211.7659863945578,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "cvp106r": {
+        "id": "cvp106r",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 101,
+        "offsetTime": 679.8802721088434,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "737ckk1": {
+        "id": "737ckk1",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 103,
+        "offsetTime": 378.94965986394556,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "bngk3bk": {
+        "id": "bngk3bk",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 104,
+        "offsetTime": 1170.2857142857144,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "neog5pm": {
+        "id": "neog5pm",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 104,
+        "offsetTime": 757.8993197278911,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "dul8nlv": {
+        "id": "dul8nlv",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 105,
+        "offsetTime": 512.6965986394557,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      },
+      "crj3mxu": {
+        "id": "crj3mxu",
+        "type": "Note",
+        "clipId": "2o6b7rc",
+        "noteNumber": 106,
+        "offsetTime": 1304.0326530612244,
+        "noteOn": null,
+        "noteOff": null,
+        "modulations": [],
+        "selected": false,
+        "interpolation": "LINEAR"
+      }
+    }
+  },
+  "audioBuffers": {
+    "$connection": "entities",
+    "$name": "audioBuffers",
+    "data": {
+      "frva9nw": {
+        "id": "frva9nw",
+        "type": "AudioBuffer",
+        "clipId": "2o6b7rc",
+        "offsetTime": 0,
+        "data": {},
+        "originalFilePath": "/Users/satoshi/repos/spectral-lab/test/data/audio/dinasaur.wav",
+        "spectrogram": null
+      }
+    }
+  },
+  "spectrograms": {
+    "$connection": "entities",
+    "$name": "spectrograms",
+    "data": {
+      "5tdbkch": {
+        "id": "5tdbkch",
+        "type": "Spectrogram",
+        "audioBufferId": "frva9nw",
+        "times": [
+          22.291156462585032,
+          33.43673469387755,
+          44.582312925170065
+        ],
+        "freqs": [
+          10.7666015625,
+          32.2998046875,
+          53.8330078125
+        ],
+        "magnitude2d": [
+          [
+            0.00029753952756347835,
+            0.0005601779289376987,
+            0.0007480759320629346
+          ],
+          [
+            0.00016405295913423645,
+            0.00034080185831702103,
+            0.00039330661043912634
+          ],
+          [
+            0.000025070620692229045,
+            0.00008987920669789191,
+            0.00004450153423167898
+          ]
+        ]
+      }
+    }
+  },
+  "bars": {
+    "$connection": "entities",
+    "$name": "bars",
+    "data": {
+      "s2i291e": {
+        "id": "s2i291e",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 0,
+        "duration": 1920,
+        "beats": [],
+        "clipId": "2o6b7rc"
+      },
+      "4yp4hah": {
+        "id": "4yp4hah",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 1920,
+        "duration": 1920,
+        "beats": [],
+        "clipId": "2o6b7rc"
+      },
+      "pedywbc": {
+        "id": "pedywbc",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 3840,
+        "duration": 1920,
+        "beats": [],
+        "clipId": "2o6b7rc"
+      },
+      "b2j5c91": {
+        "id": "b2j5c91",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 5760,
+        "duration": 1920,
+        "beats": [],
+        "clipId": "2o6b7rc"
+      }
+    }
+  },
+  "beats": {
+    "$connection": "entities",
+    "$name": "beats",
+    "data": {
+      "9tj8cy6": {
+        "id": "9tj8cy6",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 0,
+        "barId": "s2i291e"
+      },
+      "wwev3rw": {
+        "id": "wwev3rw",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 480,
+        "barId": "s2i291e"
+      },
+      "w0b6f4r": {
+        "id": "w0b6f4r",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 960,
+        "barId": "s2i291e"
+      },
+      "5l0git3": {
+        "id": "5l0git3",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 1440,
+        "barId": "s2i291e"
+      },
+      "kto89an": {
+        "id": "kto89an",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 0,
+        "barId": "4yp4hah"
+      },
+      "am80102": {
+        "id": "am80102",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 480,
+        "barId": "4yp4hah"
+      },
+      "i577sxp": {
+        "id": "i577sxp",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 960,
+        "barId": "4yp4hah"
+      },
+      "udcv5k9": {
+        "id": "udcv5k9",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 1440,
+        "barId": "4yp4hah"
+      },
+      "axinw98": {
+        "id": "axinw98",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 0,
+        "barId": "pedywbc"
+      },
+      "vq708h4": {
+        "id": "vq708h4",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 480,
+        "barId": "pedywbc"
+      },
+      "33e45sw": {
+        "id": "33e45sw",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 960,
+        "barId": "pedywbc"
+      },
+      "1pvkqkp": {
+        "id": "1pvkqkp",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 1440,
+        "barId": "pedywbc"
+      },
+      "gi8qxca": {
+        "id": "gi8qxca",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 0,
+        "barId": "b2j5c91"
+      },
+      "5ni3m6y": {
+        "id": "5ni3m6y",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 480,
+        "barId": "b2j5c91"
+      },
+      "7ekkqwg": {
+        "id": "7ekkqwg",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 960,
+        "barId": "b2j5c91"
+      },
+      "0fb3rg5": {
+        "id": "0fb3rg5",
+        "type": "Beat",
+        "name": null,
+        "offsetTime": 1440,
+        "barId": "b2j5c91"
+      }
+    }
+  },
+  "clips": {
+    "$connection": "entities",
+    "$name": "clips",
+    "data": {
+      "2o6b7rc": {
+        "id": "2o6b7rc",
+        "type": "Clip",
+        "name": "spectrogram",
+        "offsetTime": 0,
+        "duration": 7680,
+        "notes": [],
+        "bars": [],
+        "audioBuffer": null,
+        "selected": true,
+        "trackId": "uk481x2",
+        "color": "#D32C0A"
+      }
+    }
+  },
+  "tracks": {
+    "$connection": "entities",
+    "$name": "tracks",
+    "data": {
+      "uk481x2": {
+        "id": "uk481x2",
+        "name": "Track",
+        "color": "#A00C09",
+        "type": "Track",
+        "speed": [
+          {
+            "offsetTime": 0,
+            "val": 1
+          }
+        ],
+        "selected": true,
+        "songId": "song",
+        "clips": []
+      }
+    }
+  },
+  "songs": {
+    "$connection": "entities",
+    "$name": "songs",
+    "data": {
+      "song": {
+        "id": "song",
+        "type": "Song",
+        "msPerTick": 1.0416666666666667,
+        "tracks": [],
+        "duration": 15360
+      }
+    }
+  },
+  "app": {
+    "$connection": "entities",
+    "$name": "app",
+    "data": {
+      "app": {
+        "id": "app",
+        "type": "App",
+        "selectedZone": "PianoRoll",
+        "pianoRoll": null,
+        "arrangement": null
+      }
+    }
+  },
+  "pianoRoll": {
+    "$connection": "entities",
+    "$name": "pianoRoll",
+    "data": {
+      "pianoroll": {
+        "id": "pianoroll",
+        "type": "PianoRoll",
+        "appId": "app",
+        "gridOpacity": 1,
+        "spectrogramOpacity": 1,
+        "mouseMode": "SELECT",
+        "opacityWillChange": false
+      }
+    }
+  },
+  "arrangement": {
+    "$connection": "entities",
+    "$name": "arrangement",
+    "data": {
+      "h8gtbqe": {
+        "id": "h8gtbqe",
+        "type": "Arrangement",
+        "appId": "app",
+        "mouseMode": "SELECT"
+      }
+    }
+  }
+}
